@@ -1,12 +1,12 @@
-# 5272 - Màkrou
+# 5272 - Mekrou
 
-owner = BOR
-controller = BOR
-add_core = BOR
+native_size = 80
+native_ferocity = 4.5
+native_hostileness = 9
 
-capital = "Makrou"
+capital = "Mekrou"
 trade_goods = millet
-culture = bariba
+culture = gurma
 religion = wedraogo
 
 hre = no

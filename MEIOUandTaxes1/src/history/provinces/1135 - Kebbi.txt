@@ -7,7 +7,7 @@ add_core = KBI
 capital = "Birnin Kebbi"
 trade_goods = wool
 culture = haussa
-religion = sunni
+religion = maguzanci
 
 hre = no
 
@@ -30,7 +30,7 @@ discovered_by = sub_saharan
 	set_key = { lhs = Prov_TRPow value = 20.000 }
 }
 450.1.1 = {
-	set_key = { lhs = TN_River value = 26 }
+	set_key = { lhs = TN_River value = 27 }
 	# Commercial
 	set_province_flag = TN_Important
 	set_key = { lhs = starting_urban_pop_1350 value = 6.193 }

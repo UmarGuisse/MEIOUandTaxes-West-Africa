@@ -1,9 +1,5 @@
 # 1502 - Nasarawa
 
-owner = JUK
-controller = JUK
-add_core = JUK
-
 capital = "Lafia"
 trade_goods = millet
 culture = tiv_c
@@ -15,7 +11,9 @@ base_tax = 12
 base_production = 0
 base_manpower = 1
 
-is_city = yes
+native_size = 10
+native_ferocity = 2
+native_hostileness = 2
 
 discovered_by = soudantech
 discovered_by = sub_saharan

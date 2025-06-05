@@ -6,7 +6,7 @@ add_core = GRS
 
 capital = "Sisala"
 trade_goods = millet
-culture = dagomba
+culture = gurunsi
 religion = wedraogo
 
 hre = no

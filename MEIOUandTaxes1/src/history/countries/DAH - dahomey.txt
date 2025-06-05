@@ -1,4 +1,4 @@
-# DAH - Dahomey
+# DAH - Ardra
 
 government = tribal
 add_government_reform = Pol_Identity1
@@ -11,7 +11,7 @@ mercantilism = 0.0
 technology_group = sub_saharan
 religion = nana_buluku
 primary_culture = fon_c
-capital = 2890 # Abomey
+capital = 5090 # Ardra
 
 1000.1.1 = {
 	add_country_modifier = { name = title_1 duration = -1 }

@@ -8,10 +8,10 @@ add_government_reform = Pol_Nobility1
 add_government_reform = Pol_Centralisation2
 government_rank = 1
 mercantilism = 0.0
-primary_culture = senufo
-religion = nummo
+primary_culture = jula
+religion = sunni #Syncretic
 technology_group = sub_saharan
-capital = 2898 # senari #2897 Kong
+capital = 5011 # Kong
 
 1000.1.1 = {
 	add_country_modifier = { name = title_1 duration = -1 }
@@ -24,8 +24,8 @@ capital = 2898 # senari #2897 Kong
 
 1340.1.1 = {
 	monarch = { #Fictional
-		name = "Bagui"
-		dynasty = "Djimini"
+		name = "Bace"
+		dynasty = "Traore"
 		dip = 3
 		adm = 3
 		mil = 3

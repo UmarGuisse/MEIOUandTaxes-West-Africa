@@ -10,7 +10,7 @@ mercantilism = 0.0
 primary_culture = tigrean
 religion = oriental
 technology_group = east_african unit_type = soudantech
-capital = 3023	# Debarwa
+capital = 3022	# Debarwa
 
 
 1000.1.1 = {

@@ -7,7 +7,7 @@ add_core = OYO
 capital = "Idode"
 trade_goods = palm
 culture = yorumba
-religion = odinala
+religion = isese
 
 hre = no
 

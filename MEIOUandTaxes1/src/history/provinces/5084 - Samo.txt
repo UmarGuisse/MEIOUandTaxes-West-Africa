@@ -6,8 +6,8 @@ native_hostileness = 9
 
 capital = "Tougan"
 trade_goods = wool
-culture = mossi
-religion = wedraogo
+culture = bwa
+religion = nummo
 
 hre = no
 

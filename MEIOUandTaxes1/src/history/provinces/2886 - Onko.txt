@@ -7,7 +7,7 @@ add_core = OYO
 capital = "Onko"
 trade_goods = lumber
 culture = yorumba
-religion = odinala
+religion = isese
 
 hre = no
 

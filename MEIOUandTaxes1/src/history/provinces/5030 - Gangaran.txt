@@ -4,10 +4,10 @@ owner = MAL
 controller = MAL
 add_core = MAL
 
-capital = "Gangaran"
+capital = "Diakaba"
 trade_goods = millet
 culture = maninka
-religion = sunni
+religion = nummo
 
 hre = no
 

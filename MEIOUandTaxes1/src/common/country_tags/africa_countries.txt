@@ -15,6 +15,7 @@ ZIN	= "countries/Kel_Gress.txt"						#/*
 #
 # East Africa
 #
+AJU	= "countries/Ajuuraan.txt"
 ADA	= "countries/Adal.txt"
 AFA	= "countries/Dankali.txt"					#/*
 ALW	= "countries/Alwa.txt"
@@ -130,6 +131,8 @@ YRB	= "countries/Yoruba.txt"							#/*
 ZAF	= "countries/Zamfara.txt"
 ZZZ	= "countries/Zazzau.txt"							#/*
 SBE	= "countries/Sabe.txt"
+EWE = "countries/Ewe.txt"
+TAD = "countries/Tado.txt"
 #
 # Kongo, Great Lakes & Central Africa
 #
@@ -156,7 +159,6 @@ ZZB	= "countries/Zanzibar.txt"						#/*
 #
 # Madagascar
 #
-AJU	= "countries/Ajuuraan.txt"
 ANT	= "countries/Antankarana.txt"					#/*
 ATS	= "countries/Antaisaka.txt"						#/*
 BAA	= "countries/Bara.txt"							#/*

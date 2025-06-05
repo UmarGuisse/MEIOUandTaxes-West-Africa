@@ -10,7 +10,7 @@ government_rank = 1
 mercantilism = 0.0
 technology_group = sub_saharan
 primary_culture = yorumba
-religion = odinala
+religion = isese
 capital = 2885 # Ijebu-Ode
 #fixed_capital = 2885 # Ijebu-Ode
 

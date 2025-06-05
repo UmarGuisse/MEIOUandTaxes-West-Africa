@@ -11,7 +11,7 @@ mercantilism = 0.0
 technology_group = sub_saharan
 unit_type = soudantech
 primary_culture = yorumba
-religion = odinala
+religion = isese
 capital = 1550 # Ife Ile
 
 1000.1.1 = {

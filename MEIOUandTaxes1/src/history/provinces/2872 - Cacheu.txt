@@ -2,7 +2,7 @@
 
 capital = "Cacheu"
 trade_goods = slaves
-culture = serer
+culture = bainuk
 religion = roogan
 
 hre = no

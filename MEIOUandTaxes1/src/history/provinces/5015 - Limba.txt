@@ -1,12 +1,12 @@
-# 5015 - Limba
+# 5015 - Mamou
 
 owner = LMB
 controller = LMB
 add_core = LMB
 
-capital = "Limba"
+capital = "Mamou"
 trade_goods = millet
-culture = susu
+culture = temne
 religion = roogan
 
 hre = no

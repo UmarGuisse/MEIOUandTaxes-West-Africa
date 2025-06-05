@@ -7,7 +7,7 @@ add_core = IGB
 capital = "Idah"
 trade_goods = palm
 culture = igala
-religion = isese
+religion = odinala
 
 hre = no
 

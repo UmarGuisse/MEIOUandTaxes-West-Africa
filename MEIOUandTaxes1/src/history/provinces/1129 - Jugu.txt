@@ -6,7 +6,7 @@ native_hostileness = 9
 
 capital = "Jugu"
 trade_goods = millet
-culture = bariba
+culture = gurunsi
 religion = wedraogo
 
 hre = no

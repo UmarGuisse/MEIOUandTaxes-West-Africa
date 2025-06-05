@@ -6,7 +6,7 @@ add_core = GUR
 
 capital = "Fada N'gourma"
 trade_goods = wool
-culture = mossi
+culture = gurma
 religion = wedraogo
 
 hre = no

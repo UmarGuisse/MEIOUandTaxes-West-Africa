@@ -7,7 +7,7 @@ add_core = MAL
 capital = "Bamako"
 trade_goods = cotton
 culture = bambara
-religion = sunni
+religion = nummo
 
 hre = no
 

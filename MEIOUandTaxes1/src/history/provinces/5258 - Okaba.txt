@@ -7,7 +7,7 @@ add_core = IJS
 capital = "Okaba"
 trade_goods = lumber
 culture = yorumba
-religion = odinala
+religion = isese
 
 hre = no
 

@@ -7,7 +7,7 @@ add_core = EGB
 capital = "Ake"
 trade_goods = slaves
 culture = yorumba
-religion = odinala
+religion = isese
 
 hre = no
 

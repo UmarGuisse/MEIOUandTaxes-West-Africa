@@ -1535,6 +1535,236 @@ volta_group = {
 			Zoosim Zugsung
 		}
 	}
+	kulango = {
+		primary = BOA
+		
+		dynasty_names = {
+			Dagomba
+			Gonja Gurunsi
+			Konkomba
+			Ligbi
+			Mamprusi Mossi
+			Nanumba
+			Waala
+		}
+		male_names = {
+			Andani
+			Bandamda Bierigudeera
+			Darigudeera Darizegu Dimani Djingle
+			Gareba Gbewa Gungobili
+			Kpugnumbo Kulunku
+			Luro
+			Mahama
+			Ningmitooni Nyagsi
+			Saa Sitobu Sumani
+			Titugri Tohagu Tohazie
+			Yakubu Yanzoe
+			Zagli Zangyina Zirli Zokuli Zolgu Zongma Zulandi
+		}
+		female_names = {
+			Alheri Andi Anfani Anisung Anzansi Asana
+			Balima Banbangtaba Bangbebu Bangda Beninye Bineti
+			Chalpang Chentiwuni
+			Dahama Daliri Dangana Dede Dintoli Dirli
+			Faako
+			Jemda Jenda Jilma Jintora
+			Kasi Kataali
+			Maltiti Mbo Mpanko
+			Naani Napari Nasara Neira Neisim Nirlim Niyasung
+			Pagnaa Pini Puumaya
+			Saha Suglo Suhidoo Suhipelli Suhiyini
+			Taali-mbo Tahama Tamaha Timtooni Tipagya Tiyumba
+			Velim
+			Wumda Wumpini Wuninmi Wunko Wunnam Wuntia Wuntima Wunzalgu
+			Yalsumah Yerda Yiko Yumzaa Yurizaa
+			Zoosim Zugsung
+		}
+	}
+	bwa = {
+		primary = BWB
+		
+		dynasty_names = {
+			Dagomba
+			Gonja Gurunsi
+			Konkomba
+			Ligbi
+			Mamprusi Mossi
+			Nanumba
+			Waala
+		}
+		male_names = {
+			Andani
+			Bandamda Bierigudeera
+			Darigudeera Darizegu Dimani Djingle
+			Gareba Gbewa Gungobili
+			Kpugnumbo Kulunku
+			Luro
+			Mahama
+			Ningmitooni Nyagsi
+			Saa Sitobu Sumani
+			Titugri Tohagu Tohazie
+			Yakubu Yanzoe
+			Zagli Zangyina Zirli Zokuli Zolgu Zongma Zulandi
+		}
+		female_names = {
+			Alheri Andi Anfani Anisung Anzansi Asana
+			Balima Banbangtaba Bangbebu Bangda Beninye Bineti
+			Chalpang Chentiwuni
+			Dahama Daliri Dangana Dede Dintoli Dirli
+			Faako
+			Jemda Jenda Jilma Jintora
+			Kasi Kataali
+			Maltiti Mbo Mpanko
+			Naani Napari Nasara Neira Neisim Nirlim Niyasung
+			Pagnaa Pini Puumaya
+			Saha Suglo Suhidoo Suhipelli Suhiyini
+			Taali-mbo Tahama Tamaha Timtooni Tipagya Tiyumba
+			Velim
+			Wumda Wumpini Wuninmi Wunko Wunnam Wuntia Wuntima Wunzalgu
+			Yalsumah Yerda Yiko Yumzaa Yurizaa
+			Zoosim Zugsung
+		}
+	}
+	koromfe = {
+		
+		dynasty_names = {
+			Dagomba
+			Gonja Gurunsi
+			Konkomba
+			Ligbi
+			Mamprusi Mossi
+			Nanumba
+			Waala
+		}
+		male_names = {
+			Andani
+			Bandamda Bierigudeera
+			Darigudeera Darizegu Dimani Djingle
+			Gareba Gbewa Gungobili
+			Kpugnumbo Kulunku
+			Luro
+			Mahama
+			Ningmitooni Nyagsi
+			Saa Sitobu Sumani
+			Titugri Tohagu Tohazie
+			Yakubu Yanzoe
+			Zagli Zangyina Zirli Zokuli Zolgu Zongma Zulandi
+		}
+		female_names = {
+			Alheri Andi Anfani Anisung Anzansi Asana
+			Balima Banbangtaba Bangbebu Bangda Beninye Bineti
+			Chalpang Chentiwuni
+			Dahama Daliri Dangana Dede Dintoli Dirli
+			Faako
+			Jemda Jenda Jilma Jintora
+			Kasi Kataali
+			Maltiti Mbo Mpanko
+			Naani Napari Nasara Neira Neisim Nirlim Niyasung
+			Pagnaa Pini Puumaya
+			Saha Suglo Suhidoo Suhipelli Suhiyini
+			Taali-mbo Tahama Tamaha Timtooni Tipagya Tiyumba
+			Velim
+			Wumda Wumpini Wuninmi Wunko Wunnam Wuntia Wuntima Wunzalgu
+			Yalsumah Yerda Yiko Yumzaa Yurizaa
+			Zoosim Zugsung
+		}
+	}
+	gurma = {
+		primary = GUR
+		
+		dynasty_names = {
+			Buricimba
+			Gurma
+			Ouagadougou
+			Tenkodogo
+			Yatenga
+		}
+		male_names = {
+			Baahamma Bancandi Banydoba Baongo Bogora Bulli
+			Dawingma Dulugu
+			Geda Gigma Gima Gningnemdo Goalba Gori Guirga
+			Hamicuuri
+			Kampadi Kampadiboaghi Kango Kaongo Karfo Kilba Kimba Kobga Koom Korogo Korongo Kouda Koundoumie Kourita Kugri Kutu
+			Ligidi Lissoangui
+			Mazi Motiba
+			Nakim Namegue Nasbire Naskiemde Niandfo Nyambre
+			Oubi Oubri Ouedraogo
+			Piiyo
+			Ragongo Rawa
+			Saaga Salma Sanum Sapilem Sawadogo Sigiri Simandari Soarba
+			Tantiari Tenin Tidarpo Tigre Tokurma Totebaldbo Tuguri
+			Untani
+			Warga Wedraogo Wobgho Wobgo Woboga
+			Yadega Yembrima Yemde Yempabu Yempadigu Yencabri Yencirima Yendabri Yenhamma Yenmiama Yentangu Yentuguri Yolomfaogoma
+			Zanna Zombre Zoungourana Zoungrana
+			"Diaba Lompo"
+			"Labi Diebo"
+			"Nyambe Moogo"
+			"Yamba Sorgo"
+			"Zoetre Bousma"
+		}
+		female_names = {
+			Awa
+			Djeneba
+			Fatou
+			Guessrima
+			Kenga Kisswendsida
+			Mariam
+			Pengdwende Pogbi Poko
+			Relwende
+			Sanpoko
+			Wenkouni
+			Yennenga
+		}
+	}
+	gurunsi = {
+		primary = GRS
+		
+		dynasty_names = {
+			Buricimba
+			Gurma
+			Ouagadougou
+			Tenkodogo
+			Yatenga
+		}
+		male_names = {
+			Baahamma Bancandi Banydoba Baongo Bogora Bulli
+			Dawingma Dulugu
+			Geda Gigma Gima Gningnemdo Goalba Gori Guirga
+			Hamicuuri
+			Kampadi Kampadiboaghi Kango Kaongo Karfo Kilba Kimba Kobga Koom Korogo Korongo Kouda Koundoumie Kourita Kugri Kutu
+			Ligidi Lissoangui
+			Mazi Motiba
+			Nakim Namegue Nasbire Naskiemde Niandfo Nyambre
+			Oubi Oubri Ouedraogo
+			Piiyo
+			Ragongo Rawa
+			Saaga Salma Sanum Sapilem Sawadogo Sigiri Simandari Soarba
+			Tantiari Tenin Tidarpo Tigre Tokurma Totebaldbo Tuguri
+			Untani
+			Warga Wedraogo Wobgho Wobgo Woboga
+			Yadega Yembrima Yemde Yempabu Yempadigu Yencabri Yencirima Yendabri Yenhamma Yenmiama Yentangu Yentuguri Yolomfaogoma
+			Zanna Zombre Zoungourana Zoungrana
+			"Diaba Lompo"
+			"Labi Diebo"
+			"Nyambe Moogo"
+			"Yamba Sorgo"
+			"Zoetre Bousma"
+		}
+		female_names = {
+			Awa
+			Djeneba
+			Fatou
+			Guessrima
+			Kenga Kisswendsida
+			Mariam
+			Pengdwende Pogbi Poko
+			Relwende
+			Sanpoko
+			Wenkouni
+			Yennenga
+		}
+	}
 	guinean_colonial = {
 		
 		dynasty_names = {
@@ -1582,7 +1812,6 @@ volta_group = {
 		}
 	}
 }
-
 
 sahelian_group = {
 	graphical_culture = africangfx
@@ -1787,6 +2016,9 @@ sahelian_group = {
 			Safiyah Sakinah Salimah Samirah Shukriyah Sumayyah
 			Zabaydah Zahrah Zakiyyah Zaytun
 		}
+	}
+	birom = {
+		
 	}
 }
 
@@ -2288,6 +2520,7 @@ senufo_group = {
 		}
 	}
 }
+
 akan_group = {
 	graphical_culture = africangfx
 	akaa = {
@@ -2401,19 +2634,364 @@ akan_group = {
 	}
 }
 
-dogon_group = {
+mande_group = {
 	graphical_culture = africangfx
+	soninke = {
+		primary = GHA
+		
+		dynasty_names = {
+			Baraga Baraji Baxaga Bayo Benkali Berete Biiba Boyigille
+			Ceero
+			Dango Danyo Darame Denbaga Drame Dukansi Dukare Dukure Dumasi
+			Fasa Fisuru Fofana
+			Gandeega Gasama Gboeta Gologo Gumane
+			Haydara
+			Jaabi Jaane Jabira Jagaraga Jahune Janbisi Janka Jariso Jaruma Jawara Jinbiya Jire Jonbana Juhara Jwara
+			Kaba Kalapo Kalle Kaloga Kama Kamisoko Kanyasi
+			Kobara Koma Korkosi Koyita Kontawo Kueyta Kulibali Kuma Kunbare
+			Magaji Magasuba Magiraga Makalu Makangile Makkaji Mangala Mariko Markus
+			Nabo Nimaga Numansana Niakate Niaraxi
+			Sagango Sagone Sako Salu Samasa Samura Sanbaxe Sanogo Sanpi Sarisi Sibi Sila Simaga Sise Sogoxe Soxuna Sumare Sunbunu Suware
+			Tanbura Tanja Tirera Treta Tunkara Ture
+			Wago Wakannesaxo Woge
+			Xomme
+			Yaresi Yatabare
+		}
+		male_names = {
+			Abdulayi Abubakari Adama Alfa Ali
+			Baba Babenba Bace Bafin Bakari Bakarijan Bakoroba Biton
+			Ceba Cekoro Cekura Cemogo Cerno
+			Danfin Danseni Dawuda Denba Dirisa
+			Fa Fabori Fakoli
+			Gao Gejuma
+			Habibu Haji Hasana
+			Ibrahima Isa
+			Jibril Jigi Jose Jonkunda
+			Kassa Khalifa
+			Lansana
+			Magan Mamadu Maliki Malobali Musa Modibo Mori Monson
+			Namori Nci Ngolo Numuke
+			Salifu Sakura Seku Sidiki Sungalo Suleyman Sunjata
+			Uli Umaru
+			Wali Waraba Wati
+			Yakuba Yiriba Yusufu
+			"Mari Diata"
+		}
+		female_names = {
+			Aba Abi Abiba Aja Alimatu Aminata Araba Awa Aya Aisa Anti Aramata
+			Bintu
+			Dusu
+			Fanta Fatimatu Fadima
+			Juba Jahou Jainaba Janke Jatu Jojo Joma Juka
+			Kati Kajatu Kinti Kolonkan Kumba Kuta Kutu
+			Mariyamu Musokura Musonin
+			Namanje Nyima Nionkolin
+			Sanji Sanu Sogolon
+			Umu
+			Yaya
+		}
+	}
+	maninka = {
+		primary = MAL
+		
+		dynasty_names = {
+			Berete
+			Dansuba Dunbuya
+			Fofana
+			Gindo
+			Jabate Jabi Jakite Jallo Jane Jara Jawara
+			Kamara Kamisoko Kante Keita Koita Konate Konde Kulibali Kuruma Kuyate
+			Magasuba
+			Sako Sangare Sidibe Sila Sise Somono
+			Tarawele Traore Tunkara Ture
+		}
+		male_names = {
+			Abdulayi Abubakari Adama Alfa Ali
+			Baba Babenba Bace Bafin Bakari Bakarijan Bakoroba Biton
+			Ceba Cekoro Cekura Cemogo Cerno
+			Danfin Danseni Dawuda Denba Dirisa
+			Fa Fabori Fakoli
+			Gao Gejuma
+			Habibu Haji Hasana
+			Ibrahima Isa
+			Jibril Jigi Jose Jonkunda
+			Kassa Khalifa
+			Lansana
+			Magan Mamadu Maliki Malobali Musa Modibo Mori Monson
+			Namori Nci Ngolo Numuke
+			Salifu Sakura Seku Sidiki Sungalo Suleyman Sunjata
+			Uli Umaru
+			Wali Waraba Wati
+			Yakuba Yiriba Yusufu
+			"Mari Diata"
+		}
+		female_names = {
+			Aba Abi Abiba Aja Alimatu Aminata Araba Awa Aya Aisa Anti Aramata
+			Bintu
+			Dusu
+			Fanta Fatimatu Fadima
+			Juba Jahou Jainaba Janke Jatu Jojo Joma Juka
+			Kati Kajatu Kinti Kolonkan Kumba Kuta Kutu
+			Mariyamu Musokura Musonin
+			Namanje Nyima Nionkolin
+			Sanji Sanu Sogolon
+			Umu
+			Yaya
+		}
+	}
+	mandinka = {
+		primary = KAA
+		
+		dynasty_names = {
+			Berete
+			Dansuba Dunbuya
+			Fofana
+			Gindo
+			Jabate Jabi Jakite Jallo Jane Jara Jawara
+			Kamara Kamisoko Kante Keita Koita Konate Konde Kulibali Kuruma Kuyate
+			Magasuba
+			Sako Sangare Sidibe Sila Sise Somono
+			Tarawele Traore Tunkara Ture
+		}
+		male_names = {
+			Abdulayi Abubakari Adama Alfa Ali
+			Baba Babenba Bace Bafin Bakari Bakarijan Bakoroba Biton
+			Ceba Cekoro Cekura Cemogo Cerno
+			Danfin Danseni Dawuda Denba Dirisa
+			Fa Fabori Fakoli
+			Gao Gejuma
+			Habibu Haji Hasana
+			Ibrahima Isa
+			Jibril Jigi Jose Jonkunda
+			Kassa Khalifa
+			Lansana
+			Magan Mamadu Maliki Malobali Musa Modibo Mori Monson
+			Namori Nci Ngolo Numuke
+			Salifu Sakura Seku Sidiki Sungalo Suleyman Sunjata
+			Uli Umaru
+			Wali Waraba Wati
+			Yakuba Yiriba Yusufu
+			"Mari Diata"
+		}
+		female_names = {
+			Aba Abi Abiba Aja Alimatu Aminata Araba Awa Aya Aisa Anti Aramata
+			Bintu
+			Dusu
+			Fanta Fatimatu Fadima
+			Juba Jahou Jainaba Janke Jatu Jojo Joma Juka
+			Kati Kajatu Kinti Kolonkan Kumba Kuta Kutu
+			Mariyamu Musokura Musonin
+			Namanje Nyima Nionkolin
+			Sanji Sanu Sogolon
+			Umu
+			Yaya
+		}
+	}
+	susu = {
+		
+		dynasty_names = {
+			Berete
+			Dansuba Dunbuya
+			Fofana
+			Gindo
+			Jabate Jabi Jakite Jallo Jane Jara Jawara
+			Kamara Kamisoko Kante Keita Koita Konate Konde Kulibali Kuruma Kuyate
+			Magasuba
+			Sako Sangare Sidibe Sila Sise Somono
+			Tarawele Traore Tunkara Ture
+		}
+		male_names = {
+			Abdulayi Abubakari Adama Alfa Ali
+			Baba Babenba Bace Bafin Bakari Bakarijan Bakoroba Biton
+			Ceba Cekoro Cekura Cemogo Cerno
+			Danfin Danseni Dawuda Denba Dirisa
+			Fa Fabori Fakoli
+			Gao Gejuma
+			Habibu Haji Hasana
+			Ibrahima Isa
+			Jibril Jigi Jose Jonkunda
+			Kassa Khalifa
+			Lansana
+			Magan Mamadu Maliki Malobali Musa Modibo Mori Monson
+			Namori Nci Ngolo Numuke
+			Salifu Sakura Seku Sidiki Sungalo Suleyman Sunjata
+			Uli Umaru
+			Wali Waraba Wati
+			Yakuba Yiriba Yusufu
+			"Mari Diata"
+		}
+		female_names = {
+			Aba Abi Abiba Aja Alimatu Aminata Araba Awa Aya Aisa Anti Aramata
+			Bintu
+			Dusu
+			Fanta Fatimatu Fadima
+			Juba Jahou Jainaba Janke Jatu Jojo Joma Juka
+			Kati Kajatu Kinti Kolonkan Kumba Kuta Kutu
+			Mariyamu Musokura Musonin
+			Namanje Nyima Nionkolin
+			Sanji Sanu Sogolon
+			Umu
+			Yaya
+		}
+	}
+	bambara = {
+		primary = SEG
+		
+		dynasty_names = {
+			Berete
+			Dansuba Dunbuya
+			Fofana
+			Gindo
+			Jabate Jabi Jakite Jallo Jane Jara Jawara
+			Kamara Kamisoko Kante Keita Koita Konate Konde Kulibali Kuruma Kuyate
+			Magasuba
+			Sako Sangare Sidibe Sila Sise Somono
+			Tarawele Traore Tunkara Ture
+		}
+		male_names = {
+			Abdulayi Abubakari Adama Alfa Ali
+			Baba Babenba Bace Bafin Bakari Bakarijan Bakoroba Biton
+			Ceba Cekoro Cekura Cemogo Cerno
+			Danfin Danseni Dawuda Denba Dirisa
+			Fa Fabori Fakoli
+			Gao Gejuma
+			Habibu Haji Hasana
+			Ibrahima Isa
+			Jibril Jigi Jose Jonkunda
+			Kassa Khalifa
+			Lansana
+			Magan Mamadu Maliki Malobali Musa Modibo Mori Monson
+			Namori Nci Ngolo Numuke
+			Salifu Sakura Seku Sidiki Sungalo Suleyman Sunjata
+			Uli Umaru
+			Wali Waraba Wati
+			Yakuba Yiriba Yusufu
+			"Mari Diata"
+		}
+		female_names = {
+			Aba Abi Abiba Aja Alimatu Aminata Araba Awa Aya Aisa Anti Aramata
+			Bintu
+			Dusu
+			Fanta Fatimatu Fadima
+			Juba Jahou Jainaba Janke Jatu Jojo Joma Juka
+			Kati Kajatu Kinti Kolonkan Kumba Kuta Kutu
+			Mariyamu Musokura Musonin
+			Namanje Nyima Nionkolin
+			Sanji Sanu Sogolon
+			Umu
+			Yaya
+		}
+	}
+	jula = {
+		primary = KNG
+		
+		dynasty_names = {
+			Berete
+			Dansuba Dunbuya
+			Fofana
+			Gindo
+			Jabate Jabi Jakite Jallo Jane Jara Jawara
+			Kamara Kamisoko Kante Keita Koita Konate Konde Kulibali Kuruma Kuyate
+			Magasuba
+			Sako Sangare Sidibe Sila Sise Somono
+			Tarawele Traore Tunkara Ture
+		}
+		male_names = {
+			Abdulayi Abubakari Adama Alfa Ali
+			Baba Babenba Bace Bafin Bakari Bakarijan Bakoroba Biton
+			Ceba Cekoro Cekura Cemogo Cerno
+			Danfin Danseni Dawuda Denba Dirisa
+			Fa Fabori Fakoli
+			Gao Gejuma
+			Habibu Haji Hasana
+			Ibrahima Isa
+			Jibril Jigi Jose Jonkunda
+			Kassa Khalifa
+			Lansana
+			Magan Mamadu Maliki Malobali Musa Modibo Mori Monson
+			Namori Nci Ngolo Numuke
+			Salifu Sakura Seku Sidiki Sungalo Suleyman Sunjata
+			Uli Umaru
+			Wali Waraba Wati
+			Yakuba Yiriba Yusufu
+			"Mari Diata"
+		}
+		female_names = {
+			Aba Abi Abiba Aja Alimatu Aminata Araba Awa Aya Aisa Anti Aramata
+			Bintu
+			Dusu
+			Fanta Fatimatu Fadima
+			Juba Jahou Jainaba Janke Jatu Jojo Joma Juka
+			Kati Kajatu Kinti Kolonkan Kumba Kuta Kutu
+			Mariyamu Musokura Musonin
+			Namanje Nyima Nionkolin
+			Sanji Sanu Sogolon
+			Umu
+			Yaya
+		}
+	}
+	bozo = {
+		primary = JNN
+		
+		dynasty_names = {
+			Ceero Centa Culenta
+			Famanta
+			Jenepo Jenta Jire
+			Kalapo Kanakomo Kane Karab?nta Konipo Konta Kuwate
+			Lelenta
+			Menta
+			Sanarkua Sinenta
+			Tapo Tereta Tunkara
+		}
+		male_names = {
+			Abdulayi Abubakari Adama Alfa Ali
+			Baba Babenba Bace Bafin Bakari Bakarijan Bakoroba Biton
+			Ceba Cekoro Cekura Cemogo Cerno
+			Danfin Danseni Dawuda Denba Dirisa
+			Fa Fabori Fakoli
+			Gao Gejuma
+			Habibu Haji Hasana
+			Ibrahima Isa
+			Jibril Jigi Jose Jonkunda
+			Kassa Khalifa
+			Lansana
+			Magan Mamadu Maliki Malobali Musa Modibo Mori Monson
+			Namori Nci Ngolo Numuke
+			Salifu Sakura Seku Sidiki Sungalo Suleyman Sunjata
+			Uli Umaru
+			Wali Waraba Wati
+			Yakuba Yiriba Yusufu
+			"Mari Diata"
+		}
+		female_names = {
+			Aba Abi Abiba Aja Alimatu Aminata Araba Awa Aya Aisa Anti Aramata
+			Bintu
+			Dusu
+			Fanta Fatimatu Fadima
+			Juba Jahou Jainaba Janke Jatu Jojo Joma Juka
+			Kati Kajatu Kinti Kolonkan Kumba Kuta Kutu
+			Mariyamu Musokura Musonin
+			Namanje Nyima Nionkolin
+			Sanji Sanu Sogolon
+			Umu
+			Yaya
+		}
+	}
 	dogon = {
 		
-	}
-	dogon_colonial = {
-		
-		}
 		dynasty_names = {
-			Buricimba
-			Ouagadougou
-			Tenkodogo
-			Yatenga
+			Angontinbe
+			Bamiya
+			Dara Dikko Dolo Dunyo Drame
+			Gindo
+			Jebikile Jemen Jigibe Jire
+			Kanpo Kansai Karanbe Kasanbara Kasoge Kelefeli Kindibilba Kojo Kontawo
+			Nafo
+			Pujugu
+			Sagara Samaseku Sekem
+			Tapili Teli Tembelu Tembine Tisugem Togo
+			Wologem
+			Yebese
 		}
 		male_names = {
 			Baahamma Bancandi Banydoba Baongo Bogora Bulli
@@ -2451,286 +3029,58 @@ dogon_group = {
 			Sanpoko
 			Wenkouni
 			Yennenga
+		}
+	}
+	mande_colonial = {
+		
+		dynasty_names = {
+			Berete
+			Dansuba Dunbuya
+			Fofana
+			Gindo
+			Jabate Jabi Jakite Jallo Jane Jara Jawara
+			Kamara Kamisoko Kante Keita Koita Konate Konde Kulibali Kuruma Kuyate
+			Magasuba
+			Sako Sangare Sidibe Sila Sise Somono
+			Tarawele Traore Tunkara Ture
+		}
+		male_names = {
+			Abdulayi Abubakari Adama Alfa Ali
+			Baba Babenba Bace Bafin Bakari Bakarijan Bakoroba Biton
+			Ceba Cekoro Cekura Cemogo Cerno
+			Danfin Danseni Dawuda Denba Dirisa
+			Fa Fabori Fakoli
+			Gao Gejuma
+			Habibu Haji Hasana
+			Ibrahima Isa
+			Jibril Jigi Jose Jonkunda
+			Kassa Khalifa
+			Lansana
+			Magan Mamadu Maliki Malobali Musa Modibo Mori Monson
+			Namori Nci Ngolo Numuke
+			Salifu Sakura Seku Sidiki Sungalo Suleyman Sunjata
+			Uli Umaru
+			Wali Waraba Wati
+			Yakuba Yiriba Yusufu
+			"Mari Diata"
+		}
+		female_names = {
+			Aba Abi Abiba Aja Alimatu Aminata Araba Awa Aya Aisa Anti Aramata
+			Bintu
+			Dusu
+			Fanta Fatimatu Fadima
+			Juba Jahou Jainaba Janke Jatu Jojo Joma Juka
+			Kati Kajatu Kinti Kolonkan Kumba Kuta Kutu
+			Mariyamu Musokura Musonin
+			Namanje Nyima Nionkolin
+			Sanji Sanu Sogolon
+			Umu
+			Yaya
+		}
 	}
 }
 
-mande_group = {
-	graphical_culture = africangfx
-	soninke = {
-		primary = GHA
-		
-		dynasty_names = {
-			Bambara Banka Beng Bissa Bobo Bozo
-			Cisse
-			Duun Dyara Dyula
-			Gban Gbandi Gio Goo Guro
-			Imraguen
-			Jakhanke Jeri Jowulu
-			Kakabe Keita Kono Kpee Kpelle Kulubali Kuranko
-			Lele Ligbi Loko Loma
-			Malinke Mandingo Mandinka Mano Mende Mogofin Mwan
-			Samo Seenku Soninke Sosso Susu
-			Tura
-			Vai
-			Wan
-			Yalunka Yaure
-			Zialo
-		}
-		male_names = {
-			Abubakari
-			Gao
-			Kassa Khalifa
-			Maghan Mahmud Mohammed Musa
-			Ouati
-			Sakoura Souleyman Sundiata
-			Uli
-			Wali
-			"Mari Diata"
-		}
-		female_names = {
-			Aba Abi Aisa Ajamboon Alanso Alimatou Anti Aramata Attha
-			Bassin Binta Bintou
-			Dene
-			Fanta Fatimatou Fatoumatta
-			Hadang Haddy
-			Inari Isatou
-			Jabou Jahou Jainaba Jankeh Jatou Jojo Joma Juka
-			Kati Keyah Kinti Kolonkan Kumba Kuta Kutu
-			Makuto Maram Marang Mbasi Mboose
-			Namandje Nyima Nyonkoling
-			Sanji Sara Sogolon Sunkarr
-			Tomaring
-		}
-	}
-	maninka = {
-		primary = MAL
-		
-		dynasty_names = {
-			Bambara Banka Beng Bissa Bobo Bozo
-			Cisse
-			Duun Dyara Dyula
-			Gban Gbandi Gio Goo Guro
-			Imraguen
-			Jakhanke Jeri Jowulu
-			Kakabe Keita Kono Kpee Kpelle Kulubali Kuranko
-			Lele Ligbi Loko Loma
-			Malinke Mandingo Mandinka Mano Mende Mogofin Mwan
-			Samo Seenku Soninke Sosso Susu
-			Tura
-			Vai
-			Wan
-			Yalunka Yaure
-			Zialo
-		}
-		male_names = {
-			Abubakari
-			Gao
-			Kassa Khalifa
-			Maghan Mahmud Mohammed Musa
-			Ouati
-			Sakoura Souleyman Sundiata
-			Uli
-			Wali
-			"Mari Diata"
-		}
-		female_names = {
-			Aba Abi Aisa Ajamboon Alanso Alimatou Anti Aramata Attha
-			Bassin Binta Bintou
-			Dene
-			Fanta Fatimatou Fatoumatta
-			Hadang Haddy
-			Inari Isatou
-			Jabou Jahou Jainaba Jankeh Jatou Jojo Joma Juka
-			Kati Keyah Kinti Kolonkan Kumba Kuta Kutu
-			Makuto Maram Marang Mbasi Mboose
-			Namandje Nyima Nyonkoling
-			Sanji Sara Sogolon Sunkarr
-			Tomaring
-		}
-	}
-	mandinka = {
-		primary = KAA
-		
-		dynasty_names = {
-			Bambara Banka Beng Bissa Bobo Bozo
-			Cisse
-			Duun Dyara Dyula
-			Gban Gbandi Gio Goo Guro
-			Imraguen
-			Jakhanke Jeri Jowulu
-			Kakabe Keita Kono Kpee Kpelle Kulubali Kuranko
-			Lele Ligbi Loko Loma
-			Malinke Mandingo Mandinka Mano Mende Mogofin Mwan
-			Samo Seenku Soninke Sosso Susu
-			Tura
-			Vai
-			Wan
-			Yalunka Yaure
-			Zialo
-		}
-		male_names = {
-			Abubakari
-			Gao
-			Kassa Khalifa
-			Maghan Mahmud Mohammed Musa
-			Ouati
-			Sakoura Souleyman Sundiata
-			Uli
-			Wali
-			"Mari Diata"
-		}
-		female_names = {
-			Aba Abi Aisa Ajamboon Alanso Alimatou Anti Aramata Attha
-			Bassin Binta Bintou
-			Dene
-			Fanta Fatimatou Fatoumatta
-			Hadang Haddy
-			Inari Isatou
-			Jabou Jahou Jainaba Jankeh Jatou Jojo Joma Juka
-			Kati Keyah Kinti Kolonkan Kumba Kuta Kutu
-			Makuto Maram Marang Mbasi Mboose
-			Namandje Nyima Nyonkoling
-			Sanji Sara Sogolon Sunkarr
-			Tomaring
-		}
-	}
-	susu = {
-		
-		dynasty_names = {
-			Bambara Banka Beng Bissa Bobo Bozo
-			Cisse
-			Duun Dyara Dyula
-			Gban Gbandi Gio Goo Guro
-			Imraguen
-			Jakhanke Jeri Jowulu
-			Kakabe Keita Kono Kpee Kpelle Kulubali Kuranko
-			Lele Ligbi Loko Loma
-			Malinke Mandingo Mandinka Mano Mende Mogofin Mwan
-			Samo Seenku Soninke Sosso Susu
-			Tura
-			Vai
-			Wan
-			Yalunka Yaure
-			Zialo
-		}
-		male_names = {
-			Abubakari
-			Gao
-			Kassa Khalifa
-			Maghan Mahmud Mohammed Musa
-			Ouati
-			Sakoura Souleyman Sundiata
-			Uli
-			Wali
-			"Mari Diata"
-		}
-		female_names = {
-			Aba Abi Aisa Ajamboon Alanso Alimatou Anti Aramata Attha
-			Bassin Binta Bintou
-			Dene
-			Fanta Fatimatou Fatoumatta
-			Hadang Haddy
-			Inari Isatou
-			Jabou Jahou Jainaba Jankeh Jatou Jojo Joma Juka
-			Kati Keyah Kinti Kolonkan Kumba Kuta Kutu
-			Makuto Maram Marang Mbasi Mboose
-			Namandje Nyima Nyonkoling
-			Sanji Sara Sogolon Sunkarr
-			Tomaring
-		}
-	}
-	bambara = {
-		primary = SEG
-		
-		dynasty_names = {
-			Bambara Banka Beng Bissa Bobo Bozo
-			Cisse
-			Duun Dyara Dyula
-			Gban Gbandi Gio Goo Guro
-			Imraguen
-			Jakhanke Jeri Jowulu
-			Kakabe Keita Kono Kpee Kpelle Kulubali Kuranko
-			Lele Ligbi Loko Loma
-			Malinke Mandingo Mandinka Mano Mende Mogofin Mwan
-			Samo Seenku Soninke Sosso Susu
-			Tura
-			Vai
-			Wan
-			Yalunka Yaure
-			Zialo
-		}
-		male_names = {
-			Abubakari
-			Gao
-			Kassa Khalifa
-			Maghan Mahmud Mohammed Musa
-			Ouati
-			Sakoura Souleyman Sundiata
-			Uli
-			Wali
-			"Mari Diata"
-		}
-		female_names = {
-			Aba Abi Aisa Ajamboon Alanso Alimatou Anti Aramata Attha
-			Bassin Binta Bintou
-			Dene
-			Fanta Fatimatou Fatoumatta
-			Hadang Haddy
-			Inari Isatou
-			Jabou Jahou Jainaba Jankeh Jatou Jojo Joma Juka
-			Kati Keyah Kinti Kolonkan Kumba Kuta Kutu
-			Makuto Maram Marang Mbasi Mboose
-			Namandje Nyima Nyonkoling
-			Sanji Sara Sogolon Sunkarr
-			Tomaring
-		}
-	}
-	bozo = {
-		primary = JNN
-		
-		dynasty_names = {
-			Bambara Banka Beng Bissa Bobo Bozo
-			Cisse
-			Duun Dyara Dyula
-			Gban Gbandi Gio Goo Guro
-			Imraguen
-			Jakhanke Jeri Jowulu
-			Kakabe Keita Kono Kpee Kpelle Kulubali Kuranko
-			Lele Ligbi Loko Loma
-			Malinke Mandingo Mandinka Mano Mende Mogofin Mwan
-			Samo Seenku Soninke Sosso Susu
-			Tura
-			Vai
-			Wan
-			Yalunka Yaure
-			Zialo
-		}
-		male_names = {
-			Abubakari
-			Gao
-			Kassa Khalifa
-			Maghan Mahmud Mohammed Musa
-			Ouati
-			Sakoura Souleyman Sundiata
-			Uli
-			Wali
-			"Mari Diata"
-		}
-		female_names = {
-			Aba Abi Aisa Ajamboon Alanso Alimatou Anti Aramata Attha
-			Bassin Binta Bintou
-			Dene
-			Fanta Fatimatou Fatoumatta
-			Hadang Haddy
-			Inari Isatou
-			Jabou Jahou Jainaba Jankeh Jatou Jojo Joma Juka
-			Kati Keyah Kinti Kolonkan Kumba Kuta Kutu
-			Makuto Maram Marang Mbasi Mboose
-			Namandje Nyima Nyonkoling
-			Sanji Sara Sogolon Sunkarr
-			Tomaring
-		}
-	}
+songhai_group = {
 	songhai = {
 		primary = SON
 		
@@ -2769,51 +3119,6 @@ mande_group = {
 			"Silman Dandi"
 			"Sulayman Dama Dandi"
 			"Uthman Gifo Kanafa"
-		}
-		female_names = {
-			Aba Abi Aisa Ajamboon Alanso Alimatou Anti Aramata Attha
-			Bassin Binta Bintou
-			Dene
-			Fanta Fatimatou Fatoumatta
-			Hadang Haddy
-			Inari Isatou
-			Jabou Jahou Jainaba Jankeh Jatou Jojo Joma Juka
-			Kati Keyah Kinti Kolonkan Kumba Kuta Kutu
-			Makuto Maram Marang Mbasi Mboose
-			Namandje Nyima Nyonkoling
-			Sanji Sara Sogolon Sunkarr
-			Tomaring
-		}
-	}
-	mande_colonial = {
-		
-		dynasty_names = {
-			Bambara Banka Beng Bissa Bobo Bozo
-			Cisse
-			Duun Dyara Dyula
-			Gban Gbandi Gio Goo Guro
-			Imraguen
-			Jakhanke Jeri Jowulu
-			Kakabe Keita Kono Kpee Kpelle Kulubali Kuranko
-			Lele Ligbi Loko Loma
-			Malinke Mandingo Mandinka Mano Mende Mogofin Mwan
-			Samo Seenku Soninke Sosso Susu
-			Tura
-			Vai
-			Wan
-			Yalunka Yaure
-			Zialo
-		}
-		male_names = {
-			Abubakari
-			Gao
-			Kassa Khalifa
-			Maghan Mahmud Mohammed Musa
-			Ouati
-			Sakoura Souleyman Sundiata
-			Uli
-			Wali
-			"Mari Diata"
 		}
 		female_names = {
 			Aba Abi Aisa Ajamboon Alanso Alimatou Anti Aramata Attha
@@ -5084,34 +5389,6 @@ kwa_group = {
 			Mmayen
 		}
 	}
-	fon_c = {
-		primary = DAH
-		
-		dynasty_names = {
-			Agasuvi
-			Hwegbonu
-			"Alada Tadonu"
-		}
-		male_names = {
-			Adandozan Adjakpa Agagnon Agbami Agbande Agbangba Agonglo Akaba Akoli Akonde Amamu Ayohwan Aysan Azoton
-			Dakodonou Dassu Deka
-			Ganhwa Gelele Gezo
-			Houegbadja Hueze Hufon Hunungungu
-			Kopon Kpengla
-			Mijo Mindji
-			Tegbessou Tezifon
-			Yessu
-			"Agadja Trudo"
-			"Aholuho Adja"
-			"De Adjara" "De Nufion"
-			"Do Aklin"
-			"Kin Ha"
-			"Lamadje Pokonu"
-		}
-		female_names = {
-			Abla Adjua Afi Akosiwa Aku Ame Ayawa
-		}
-	}
 	igala = {
 		primary = IGB
 		
@@ -5133,26 +5410,6 @@ kwa_group = {
 			Iganya Inikpi Itabo Iye Iyoma
 			Laluba
 			Ojamalia Otigbele
-		}
-	}
-	ewe_c = {
-		
-		dynasty_names = {
-			Anlo
-			Danyi
-			Mina
-			Tongu
-		}
-		male_names = {
-			Agodo Agunu Atsa Atsasa Azamu
-			Hanto
-			Katraya Komlagan Kponton
-			Toji
-		}
-		female_names = {
-			Enyonam
-			Lumusi
-			Mawunyo
 		}
 	}
 	nigerian_colonial = {
@@ -5222,6 +5479,58 @@ kwa_group = {
 			Simisola
 			Temitope Titilayo
 			Yejide Yewande
+		}
+	}
+}
+
+gbe_group = {
+	graphical_culture = africangfx
+	fon_c = {
+		primary = DAH
+		
+		dynasty_names = {
+			Agasuvi
+			Hwegbonu
+			"Alada Tadonu"
+		}
+		male_names = {
+			Adandozan Adjakpa Agagnon Agbami Agbande Agbangba Agonglo Akaba Akoli Akonde Amamu Ayohwan Aysan Azoton
+			Dakodonou Dassu Deka
+			Ganhwa Gelele Gezo
+			Houegbadja Hueze Hufon Hunungungu
+			Kopon Kpengla
+			Mijo Mindji
+			Tegbessou Tezifon
+			Yessu
+			"Agadja Trudo"
+			"Aholuho Adja"
+			"De Adjara" "De Nufion"
+			"Do Aklin"
+			"Kin Ha"
+			"Lamadje Pokonu"
+		}
+		female_names = {
+			Abla Adjua Afi Akosiwa Aku Ame Ayawa
+		}
+	}
+	ewe_c = {
+		
+		dynasty_names = {
+			Anlo
+			Danyi
+			Mina
+			Tongu
+		}
+		male_names = {
+			Agodo Agunu Atsa Atsasa Azamu
+			Hanto
+			Katraya Komlagan Kponton
+			Toji
+		}
+		female_names = {
+			Enyonam
+			Lumusi
+			Mawunyo
 		}
 	}
 }

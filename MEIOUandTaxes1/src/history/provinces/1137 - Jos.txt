@@ -1,13 +1,9 @@
 # 1137 - Jos
 
-owner = JUK
-controller = JUK
-add_core = JUK
-
 capital = "Jos"
 trade_goods = slaves
-culture = kutumbawa
-religion = abwoi
+culture = birom
+religion = maguzanci
 
 hre = no
 
@@ -15,7 +11,9 @@ base_tax = 13
 base_production = 0
 base_manpower = 2
 
-is_city = yes
+native_size = 10
+native_ferocity = 2
+native_hostileness = 2
 
 discovered_by = soudantech
 discovered_by = sub_saharan

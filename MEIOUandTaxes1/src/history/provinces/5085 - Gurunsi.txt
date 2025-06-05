@@ -6,7 +6,7 @@ add_core = GRS
 
 capital = "Lào"
 trade_goods = millet
-culture = mossi
+culture = gurunsi
 religion = wedraogo
 
 hre = no

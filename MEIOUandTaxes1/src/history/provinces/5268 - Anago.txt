@@ -7,7 +7,7 @@ add_core = EGB
 capital = "Anago"
 trade_goods = millet
 culture = yorumba
-religion = odinala
+religion = isese
 
 hre = no
 

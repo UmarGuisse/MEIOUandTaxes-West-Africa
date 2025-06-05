@@ -1,22 +1,19 @@
 # 5270 - Mahi
 
-owner = SBE
-controller = SBE
-add_core = SBE
+native_size = 80
+native_ferocity = 4.5
+native_hostileness = 9
 
 capital = "Mahi"
 trade_goods = slaves
-culture = fon_c
-religion = nana_buluku
+culture = yorumba
+religion = isese
 
 hre = no
 
 base_tax = 16
 base_production = 0
 base_manpower = 0
-
-is_city = yes
-set_key = { lhs = Infra_Irrigation value = 1 }
 
 discovered_by = soudantech
 discovered_by = sub_saharan

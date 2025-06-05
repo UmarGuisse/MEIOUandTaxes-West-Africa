@@ -1,12 +1,12 @@
-# 1113 - Susu
+# 1113 - Kindia
 
 owner = MEL
 controller = MEL
 add_core = MEL
 
-capital = "Beyla"
+capital = "Kindia"
 trade_goods = millet
-culture = susu
+culture = temne
 religion = roogan
 
 hre = no

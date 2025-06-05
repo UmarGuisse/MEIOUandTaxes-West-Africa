@@ -6,7 +6,7 @@ add_core = MAL
 
 capital = "Benga"
 trade_goods = rice
-culture = dogon
+culture = fulani
 religion = sunni
 
 hre = no

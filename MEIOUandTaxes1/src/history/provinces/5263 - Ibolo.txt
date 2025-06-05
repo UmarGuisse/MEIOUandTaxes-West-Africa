@@ -1,13 +1,13 @@
 # 5263 - Ibolo
 
-owner = OYO
-controller = OYO
-add_core = OYO
+owner = IFE
+controller = IFE
+add_core = IFE
 
 capital = "Ibolo"
 trade_goods = palm
 culture = yorumba
-religion = odinala
+religion = isese
 
 hre = no
 

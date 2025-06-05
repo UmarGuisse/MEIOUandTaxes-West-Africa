@@ -24,7 +24,6 @@ historical_friend = YAT
 	#set_key = { lhs = centralization_decentralization value = 3 }
 	add_absolutism = -100
 	add_absolutism = 0
-	set_country_flag = no_cavalry
 }
 
 1337.1.1 = {

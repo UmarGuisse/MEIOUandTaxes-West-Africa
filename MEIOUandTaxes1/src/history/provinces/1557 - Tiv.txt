@@ -6,7 +6,7 @@ add_core = JUK
 
 capital = "Wukari"
 trade_goods = palm
-culture = tiv_c
+culture = kutumbawa
 religion = abwoi
 
 hre = no

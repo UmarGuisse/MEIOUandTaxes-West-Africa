@@ -1,8 +1,8 @@
 # 1128 - Ewe
 
-owner = DAH
-controller = DAH
-add_core = DAH
+owner = EWE
+controller = EWE
+add_core = EWE
 
 capital = "Ewe"
 trade_goods = palm

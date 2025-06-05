@@ -6,7 +6,7 @@ add_core = MAL
 
 capital = "Walata"
 trade_goods = livestock
-culture = soninke
+culture = sanhaja
 religion = sunni
 
 hre = no

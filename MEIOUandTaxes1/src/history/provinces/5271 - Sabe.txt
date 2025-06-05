@@ -6,8 +6,8 @@ add_core = SBE
 
 capital = "Sabe"
 trade_goods = slaves
-culture = fon_c
-religion = nana_buluku
+culture = yorumba
+religion = isese
 
 hre = no
 

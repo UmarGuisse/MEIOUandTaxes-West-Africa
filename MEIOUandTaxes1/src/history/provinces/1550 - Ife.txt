@@ -7,7 +7,7 @@ add_core = IFE
 capital = "Ile-Ife"
 trade_goods = pepper
 culture = yorumba
-religion = odinala
+religion = isese
 
 hre = no
 

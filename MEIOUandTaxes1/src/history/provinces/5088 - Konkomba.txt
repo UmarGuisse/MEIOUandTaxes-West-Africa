@@ -2,7 +2,7 @@
 
 capital = "Kpassa"
 trade_goods = millet
-culture = dagomba
+culture = gurma
 religion = wedraogo
 
 hre = no

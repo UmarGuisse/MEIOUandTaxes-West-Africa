@@ -1,13 +1,9 @@
 # 5026 - Niaboua
 
-owner = KRU
-controller = KRU
-add_core = KRU
-
 capital = "Niaboua"
 trade_goods = millet
 culture = dyola
-religion = akom
+religion = roogan
 
 hre = no
 
@@ -15,7 +11,9 @@ base_tax = 3
 base_production = 0
 base_manpower = 0
 
-is_city = yes
+native_size = 80
+native_ferocity = 4.5
+native_hostileness = 9
 
 discovered_by = soudantech
 discovered_by = sub_saharan

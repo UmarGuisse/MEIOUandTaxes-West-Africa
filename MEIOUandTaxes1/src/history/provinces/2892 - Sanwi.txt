@@ -3,7 +3,7 @@
 capital = "Sanwi"
 trade_goods = millet
 culture = dyola
-religion = akom
+religion = roogan
 
 hre = no
 

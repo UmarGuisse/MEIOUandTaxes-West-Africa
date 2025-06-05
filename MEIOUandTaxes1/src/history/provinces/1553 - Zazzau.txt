@@ -7,7 +7,7 @@ add_core = ZZZ
 capital = "Zazzau"
 trade_goods = slaves
 culture = haussa
-religion = sunni
+religion = maguzanci
 
 hre = no
 

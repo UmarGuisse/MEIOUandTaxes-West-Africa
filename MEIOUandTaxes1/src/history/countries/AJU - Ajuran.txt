@@ -21,12 +21,11 @@ capital = 3033 #Merca
 
 1356.1.1 = {
 	monarch = {
-		name = "Ajuran" # no rulers or consorts found despite research.
+		name = "Arliqo" # no rulers or consorts found despite research.
 		dynasty = "Gareen"
 		dip = 3
 		mil = 2
 		adm = 1
-		regent = yes
 	}
 	add_piety = 0.25
 }

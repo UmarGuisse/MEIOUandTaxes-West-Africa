@@ -1,13 +1,13 @@
 # 2885 - Ijebu
 
-owner = IJE
-controller = IJE
-add_core = IJE
+owner = IFE
+controller = IFE
+add_core = IFE
 
 capital = "Ijebu-Ode"
 trade_goods = slaves
 culture = yorumba
-religion = odinala
+religion = isese
 
 hre = no
 

@@ -7,7 +7,7 @@ add_core = ZAF
 capital = "Gummi"
 trade_goods = cotton
 culture = haussa
-religion = sunni
+religion = maguzanci
 
 hre = no
 

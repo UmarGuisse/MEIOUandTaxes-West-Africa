@@ -11,7 +11,7 @@ mercantilism = 0.0
 technology_group = soudantech
 religion = maguzanci
 primary_culture = bagirmi
-capital = 2777 # Massenya
+capital = 1222 # Massenya
 historical_rival = KBO
 
 1000.1.1 = {

@@ -173,3 +173,12 @@ dependency = {
 	start_date = 1356.1.10
 	end_date = 1415.1.1
 }
+
+# Mali
+dependency = {
+subject_type = "tributary_state"
+	first = MAL
+	second = DJO
+	start_date = 1356.1.10
+	end_date = 1450.1.1
+}

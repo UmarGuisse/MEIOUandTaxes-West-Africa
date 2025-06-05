@@ -7,7 +7,7 @@ add_core = MAL
 capital = "Bruco"
 trade_goods = cotton
 culture = bainuk
-religion = sunni
+religion = roogan
 
 hre = no
 

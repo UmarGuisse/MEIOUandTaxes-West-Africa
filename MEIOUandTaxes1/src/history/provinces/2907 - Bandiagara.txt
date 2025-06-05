@@ -1,13 +1,13 @@
-# 2907 - Bandiagara
+# 2907 - Seeno
 
 owner = YAT
 controller = YAT
 add_core = YAT
 
-capital = "Bandiagara"
+capital = "Dori"
 trade_goods = millet
-culture = fulani
-religion = sunni
+culture = koromfe
+religion = wedraogo
 
 hre = no
 

@@ -8,10 +8,11 @@ add_government_reform = Pol_Centralisation2
 government_rank = 1
 mercantilism = 0.0
 primary_culture = songhai
+add_accepted_culture = soninke
 religion = sunni #Syncretic
 technology_group = sub_saharan
 unit_type = soudantech
-capital = 2917 # Koukya
+capital = 2919 # Koukya
 historical_rival = MAL
 
 1000.1.1 = {

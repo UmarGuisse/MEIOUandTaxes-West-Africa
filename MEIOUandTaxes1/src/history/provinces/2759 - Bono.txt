@@ -4,7 +4,7 @@ owner = BON
 controller = BON
 add_core = BON
 
-capital = "Begho"
+capital = "Bono Manso"
 trade_goods = slaves
 culture = akaa
 religion = akom 

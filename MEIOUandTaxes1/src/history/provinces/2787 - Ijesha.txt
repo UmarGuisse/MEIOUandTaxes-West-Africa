@@ -1,13 +1,13 @@
 # 2787 - Ijesha
 
-owner = IJS
-controller = IJS
-add_core = IJS
+owner = IFE
+controller = IFE
+add_core = IFE
 
 capital = "Ilesa"
 trade_goods = palm
 culture = yorumba
-religion = odinala
+religion = isese
 
 hre = no
 

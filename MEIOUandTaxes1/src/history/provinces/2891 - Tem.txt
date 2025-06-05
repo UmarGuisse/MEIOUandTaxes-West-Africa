@@ -1,21 +1,19 @@
 # 2891 - Tem
 
-owner = DAH
-controller = DAH
-add_core = DAH
+native_size = 80
+native_ferocity = 4.5
+native_hostileness = 9
 
 capital = "Sokode"
 trade_goods = millet
-culture = fon_c
-religion = nana_buluku
+culture = gurunsi
+religion = wedraogo
 
 hre = no
 
 base_tax = 6
 base_production = 0
 base_manpower = 0
-
-is_city = yes
 
 discovered_by = soudantech
 discovered_by = sub_saharan
