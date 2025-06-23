@@ -1,13 +1,13 @@
 # 4985 - Ibibio
 
-owner = IJA
-controller = IJA
-add_core = IJA
+owner = IBI
+controller = IBI
+add_core = IBI
 
-capital = "Okoloama"
+capital = "Uyo"
 trade_goods = slaves
-culture = ijaw
-religion = egbesu
+culture = ibibio
+religion = abasi
 
 hre = no
 

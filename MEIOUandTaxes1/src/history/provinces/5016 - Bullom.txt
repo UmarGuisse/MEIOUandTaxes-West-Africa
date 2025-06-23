@@ -2,7 +2,7 @@
 
 capital = "Bullom"
 trade_goods = slaves
-culture = temne
+culture = bullom
 religion = roogan
 
 hre = no

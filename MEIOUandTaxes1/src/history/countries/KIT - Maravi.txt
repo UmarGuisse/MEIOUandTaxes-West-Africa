@@ -19,6 +19,7 @@ capital = 1578
 	#set_key = { lhs = centralization_decentralization value = 4 }
 	add_absolutism = -100
 	add_absolutism = 10
+	set_country_flag = no_cavalry
 }
 
 1337.1.1 = {

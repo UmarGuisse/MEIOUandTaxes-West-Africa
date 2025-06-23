@@ -2,8 +2,8 @@
 
 capital = "Ntwumuru"
 trade_goods = millet
-culture = dagomba
-religion = wedraogo
+culture = gonja
+religion = akom
 
 hre = no
 

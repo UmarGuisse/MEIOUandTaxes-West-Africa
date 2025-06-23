@@ -6,7 +6,7 @@ add_core = TAD
 
 capital = "Tado"
 trade_goods = slaves
-culture = fon_c
+culture = aja_c
 religion = nana_buluku
 
 hre = no

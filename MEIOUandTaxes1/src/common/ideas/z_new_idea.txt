@@ -1999,9 +1999,8 @@ mande_ideas = {
 		leader_land_shock = 1
 	}
 	mande_ideas_3 = { 
-		heir_chance = 0.3
-		rival_change_cost = -0.3
-		global_institution_spread = 0.10
+		num_accepted_cultures = 2
+		culture_conversion_cost = -0.15
 	}
 	mande_ideas_4 = {
 		advisor_pool = 1
@@ -2019,6 +2018,7 @@ mande_ideas = {
 	}
 	mande_ideas_7 = {
 		diplomatic_reputation = 1
+		tolerance_heathen = 2
 		global_missionary_strength = 0.02
 	}
 }
@@ -4208,7 +4208,10 @@ mossi_ideas = {
 	}
 
 	trigger = {
-		primary_culture = mossi
+		OR = {
+			primary_culture = mossi
+			primary_culture = gurma
+		}
 		NOT = { is_colonial_nation = yes }
 	}
 

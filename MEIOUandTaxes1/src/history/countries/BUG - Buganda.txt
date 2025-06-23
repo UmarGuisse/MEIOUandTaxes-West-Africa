@@ -1,3 +1,5 @@
+# BUG - Buganda
+
 government = tribal
 add_government_reform = Pol_Identity1
 add_government_reform = Pol_Leadership1

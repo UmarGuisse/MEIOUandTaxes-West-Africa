@@ -7,7 +7,7 @@ add_core = MAL
 capital = "Niani"
 trade_goods = cotton
 culture = bambara
-religion = nummo
+religion = bamanaya
 
 hre = no
 

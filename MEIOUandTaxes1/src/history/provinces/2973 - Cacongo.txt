@@ -1,8 +1,8 @@
-# 2973 - Cacongo
+# 2973 - Kakongo
 
-owner = KON
-controller = KON
-add_core = KON
+owner = KKN
+controller = KKN
+add_core = KKN
 
 capital = "Ponda"
 trade_goods = palm

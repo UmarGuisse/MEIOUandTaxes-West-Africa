@@ -2,7 +2,7 @@
 
 government = tribal
 add_government_reform = Pol_Identity1
-add_government_reform = Pol_Leadership2
+add_government_reform = Pol_Leadership1
 add_government_reform = Pol_Tradition2
 add_government_reform = Pol_Nobility1
 add_government_reform = Pol_Centralisation2
@@ -22,7 +22,7 @@ capital = 1561 # Igbo-Ukwu
 	set_country_flag = no_cavalry
 }
 
-1300.1.1 = {
+1350.1.1 = {
 	monarch = {
 		name = "Jiofo"
 		dynasty = "Nri"

@@ -2,7 +2,7 @@
 
 capital = "Gola"
 trade_goods = slaves
-culture = temne
+culture = gola
 religion = roogan
 
 hre = no

@@ -2598,7 +2598,7 @@ country_event = {
 					}
 					african_pagan = {
 						if = {
-							limit = { OR = { religion = roogan religion = akom religion = nummo religion = nana_buluku } }
+							limit = { OR = { religion = roogan religion = akom religion = bamanaya religion = nana_buluku } }
 							if = {
 								limit = { owner = { religion = sunni } }
 								MN_StartUpProv = {
@@ -3460,10 +3460,10 @@ country_event = {
 					#San_Pagan = {}				# 65 #South Africa beliefs
 					#Lotuko_Pagan = {}			# 66 #Sudan beliefs
 					#Fomba_Gasy = {}			# 67 #Malagasy Mythology
-					#Wedraogo = {}				# 68
+					#Yaaba = {}					# 68
 					#Isese = {}					# 69
 					#Egbesu = {}				# 70
-					#Nummo = {}					# 71
+					#Bamanaya = {}				# 71
 					#Adi_Dharam = {}			# 72 #India folk religion
 					#Australian_Ppagan = {}		# 73
 					#Ban_Phi = {}				# 74 #Laos / Shan / Tai folk religion
@@ -3661,10 +3661,10 @@ country_event = {
 			#San_Pagan = {}				# 65 #South Africa beliefs
 			#Lotuko_Pagan = {}			# 66 #Sudan beliefs
 			#Fomba_Gasy = {}			# 67 #Malagasy Mythology
-			#Wedraogo = {}				# 68
+			#Yaaba = {}					# 68
 			#Isese = {}					# 69
 			#Egbesu = {}				# 70
-			#Nummo = {}					# 71
+			#Bamanaya = {}				# 71
 			#Adi_Dharam = {}			# 72 #India folk religion
 			#Australian_Ppagan = {}		# 73
 			#Ban_Phi = {}				# 74 #Laos / Shan / Tai folk religion

@@ -2,8 +2,8 @@
 
 capital = "Gaoua"
 trade_goods = millet
-culture = bwa
-religion = nummo
+culture = kulango
+religion = yaaba
 
 hre = no
 

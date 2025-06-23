@@ -34,89 +34,162 @@ historical_units = { #Savannah Empires
 }
 
 monarch_names = {
+	"Abdulayi #0" = 100
 	"Abubakari #0" = 100
+	"Adama #0" = 100
+	"Alfa #0" = 100
+	"Ali #0" = 100
+	"Baba #0" = 100
+	"Babenba #0" = 100
+	"Bace #0" = 100
+	"Bafin #0" = 100
+	"Bakari #0" = 100
+	"Bakarijan #0" = 100
+	"Bakoroba #0" = 100
+	"Biton #0" = 100
+	"Ceba #0" = 100
+	"Cekoro #0" = 100
+	"Cekura #0" = 100
+	"Cemogo #0" = 100
+	"Cerno #0" = 100
+	"Danfin #0" = 100
+	"Danseni #0" = 100
+	"Dawuda #0" = 100
+	"Denba #0" = 100
+	"Dirisa #0" = 100
+	"Fa #0" = 100
+	"Fabori #0" = 100
+	"Fakoli #0" = 100
 	"Gao #0" = 100
+	"Gejuma #0" = 100
+	"Habibu #0" = 100
+	"Haji #0" = 100
+	"Hasana #0" = 100
+	"Ibrahima #0" = 100
+	"Isa #0" = 100
+	"Jibril #0" = 100
+	"Jigi #0" = 100
+	"Jose #0" = 100
+	"Jonkunda #0" = 100
 	"Kassa #0" = 100
 	"Khalifa #0" = 100
-	"Maghan #0" = 100
-	"Mahmud #0" = 100
-	"Mohammed #0" = 100
+	"Lansana #0" = 100
+	"Magan #0" = 100
+	"Mamadu #0" = 100
+	"Maliki #0" = 100
+	"Malobali #0" = 100
 	"Musa #0" = 100
-	"Ouati #0" = 100
-	"Sakoura #0" = 100
-	"Souleyman #0" = 100
-	"Sundiata #0" = 100
+	"Modibo #0" = 100
+	"Mori #0" = 100
+	"Monson #0" = 100
+	"Namori #0" = 100
+	"Nci #0" = 100
+	"Ngolo #0" = 100
+	"Numuke #0" = 100
+	"Salifu #0" = 100
+	"Sakura #0" = 100
+	"Seku #0" = 100
+	"Sidiki #0" = 100
+	"Sungalo #0" = 100
+	"Suleyman #0" = 100
+	"Sunjata #0" = 100
 	"Uli #0" = 100
+	"Umaru #0" = 100
 	"Wali #0" = 100
+	"Waraba #0" = 100
+	"Wati #0" = 100
+	"Yakuba #0" = 100
+	"Yiriba #0" = 100
+	"Yusufu #0" = 100
 	"Mari Diata #0" = 100
 
 	"Aba #0" = -1
 	"Abi #0" = -1
+	"Abiba #0" = -1
+	"Aja #0" = -1
+	"Alimatu #0" = -1
+	"Aminata #0" = -1
+	"Araba #0" = -1
+	"Awa #0" = -1
+	"Aya #0" = -1
 	"Aisa #0" = -1
-	"Ajamboon #0" = -1
-	"Alanso #0" = -1
-	"Alimatou #0" = -1
 	"Anti #0" = -1
 	"Aramata #0" = -1
-	"Attha #0" = -1
-	"Bassin #0" = -1
-	"Binta #0" = -1
-	"Bintou #0" = -1
-	"Dene #0" = -1
+	"Bintu #0" = -1
+	"Dusu #0" = -1
 	"Fanta #0" = -1
-	"Fatimatou #0" = -1
-	"Fatoumatta #0" = -1
-	"Hadang #0" = -1
-	"Haddy #0" = -1
-	"Inari #0" = -1
-	"Isatou #0" = -1
-	"Jabou #0" = -1
+	"Fatimatu #0" = -1
+	"Fadima #0" = -1
+	"Juba #0" = -1
 	"Jahou #0" = -1
 	"Jainaba #0" = -1
-	"Jankeh #0" = -1
-	"Jatou #0" = -1
+	"Janke #0" = -1
+	"Jatu #0" = -1
 	"Jojo #0" = -1
 	"Joma #0" = -1
 	"Juka #0" = -1
 	"Kati #0" = -1
-	"Keyah #0" = -1
+	"Kajatu #0" = -1
 	"Kinti #0" = -1
 	"Kolonkan #0" = -1
 	"Kumba #0" = -1
 	"Kuta #0" = -1
 	"Kutu #0" = -1
-	"Makuto #0" = -1
-	"Maram #0" = -1
-	"Marang #0" = -1
-	"Mbasi #0" = -1
-	"Mboose #0" = -1
-	"Namandje #0" = -1
+	"Mariyamu #0" = -1
+	"Musokura #0" = -1
+	"Musonin #0" = -1
+	"Namanje #0" = -1
 	"Nyima #0" = -1
-	"Nyonkoling #0" = -1
+	"Nionkolin #0" = -1
 	"Sanji #0" = -1
-	"Sara #0" = -1
+	"Sanu #0" = -1
 	"Sogolon #0" = -1
-	"Sunkarr #0" = -1
-	"Tomaring #0" = -1
+	"Umu #0" = -1
+	"Yaya #0" = -1
 }
 
 leader_names = {
-	Oueddai
-	Ahmat
-	Ardoum
-	Terap
-	Kabadi
-	Yorassem
-	Nahor
-	Deby
-	Djammous
-	Malloum
+	Berete
+	Dansuba
+	Dunbuya
+	Fofana
+	Gindo
+	Jabate
+	Jabi
+	Jakite
+	Jallo
+	Jane
+	Jara
+	Jawara
+	Kamara
+	Kamisoko
+	Kante
+	Keita
+	Koita
+	Konate
+	Konde
+	Kulibali
+	Kuruma
+	Kuyate
+	Magasuba
+	Sako
+	Sangare
+	Sidibe
+	Sila
+	Sise
+	Somono
+	Tarawele
+	Traore
+	Tunkara
+	Ture
 }
 
 ship_names = {
-	Dugu Fune Aritso Kature Ayoma Bulu
-	Arki Shu "Bad al-Djel" Hume Dunama
-	Biri Birkoru "Abd al-Djel Selma"
-	"Dunama Dibbalem" Kade "Kachim Biri"
-	Djil Dari "Kure Kura" "Kure Gana"
+	Duguba Farinman Mogoninfin
+	Kurunba Dugukene Farafin
+	Kogoji Worodugu Tilebin Tilebo
+	Ngala Cejugu Jibril "I Ni Ce" 
+	"Abubakari II" Kurunba Kurunin
+	Bozo Somono Keita Manden Mansaren
+	Kamara Wagadu Tubabu Malobali
 }

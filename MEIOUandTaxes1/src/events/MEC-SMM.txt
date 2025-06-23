@@ -3645,7 +3645,7 @@ country_event = { ### Custom - Set Type - Religion values - total
 		hidden_effect = { smm_menu_effect = { type=306 } }
 	}
 
-	option = { ### Type 307 - Wedraogo
+	option = { ### Type 307 - Yaaba
 		name = SMMTypeNameOpt307
 		hidden_effect = { smm_menu_effect = { type=307 } }
 	}
@@ -3660,7 +3660,7 @@ country_event = { ### Custom - Set Type - Religion values - total
 		hidden_effect = { smm_menu_effect = { type=309 } }
 	}
 
-	option = { ### Type 310 - Nummo
+	option = { ### Type 310 - Bamanaya
 		name = SMMTypeNameOpt310
 		hidden_effect = { smm_menu_effect = { type=310 } }
 	}

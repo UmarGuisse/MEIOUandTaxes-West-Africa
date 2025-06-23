@@ -1,13 +1,13 @@
 # 5262 - Gwanaguru
 
-owner = BOR
-controller = BOR
-add_core = BOR
+native_size = 80
+native_ferocity = 4.5
+native_hostileness = 9
 
 capital = "Paraku"
 trade_goods = millet
 culture = bariba
-religion = wedraogo
+religion = yaaba
 
 hre = no
 
@@ -15,7 +15,6 @@ base_tax = 3
 base_production = 0
 base_manpower = 0
 
-is_city = yes
 #marketplace = yes
 
 discovered_by = soudantech

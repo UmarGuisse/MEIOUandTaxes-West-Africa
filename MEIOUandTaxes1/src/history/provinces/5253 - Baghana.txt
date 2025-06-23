@@ -35,4 +35,5 @@ discovered_by = sub_saharan
 }
 1356.1.1 = {
 	add_core = GHA
+	add_core = MSN
 }

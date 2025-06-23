@@ -2,8 +2,8 @@
 
 capital = "Ntrubu"
 trade_goods = millet
-culture = dagomba
-religion = wedraogo
+culture = akaa
+religion = akom
 
 hre = no
 

@@ -270,10 +270,10 @@ dominant_religion_plus = {
 		AND = { dominant_religion = san_pagan			capital_scope = { religion = san_pagan } }
 		AND = { dominant_religion = lotuko_pagan		capital_scope = { religion = lotuko_pagan } }
 		AND = { dominant_religion = fomba_gasy			capital_scope = { religion = fomba_gasy } }
-		AND = { dominant_religion = odinala				capital_scope = { religion = wedraogo } }
+		AND = { dominant_religion = odinala				capital_scope = { religion = yaaba } }
 		AND = { dominant_religion = isese				capital_scope = { religion = isese } }
 		AND = { dominant_religion = egbesu				capital_scope = { religion = egbesu } }
-		AND = { dominant_religion = nummo				capital_scope = { religion = nummo } }
+		AND = { dominant_religion = bamanaya			capital_scope = { religion = bamanaya } }
 		AND = { dominant_religion = adi_dharam			capital_scope = { religion = adi_dharam } }
 		AND = { dominant_religion = australian_pagan	capital_scope = { religion = australian_pagan } }
 		AND = { dominant_religion = ban_phi				capital_scope = { religion = ban_phi } }

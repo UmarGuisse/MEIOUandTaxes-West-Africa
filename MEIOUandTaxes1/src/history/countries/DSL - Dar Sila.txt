@@ -10,7 +10,8 @@ government_rank = 1
 mercantilism = 0.0
 technology_group = soudantech
 religion = lotuko_pagan
-primary_culture = foora
+primary_culture = silla
+add_accepted_culture = foora
 capital = 1215
 
 1000.1.1 = {

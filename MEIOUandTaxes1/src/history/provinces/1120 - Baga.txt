@@ -2,7 +2,7 @@
 
 capital = "Baga"
 trade_goods = millet
-culture = temne
+culture = baga
 religion = roogan
 
 hre = no

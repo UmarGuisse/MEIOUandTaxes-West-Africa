@@ -19,4 +19,5 @@ capital = 2989	# Zimbabwe
 	#set_key = { lhs = centralization_decentralization value = 5 }
 	add_absolutism = -100
 	add_absolutism = 0
+	set_country_flag = no_cavalry
 }

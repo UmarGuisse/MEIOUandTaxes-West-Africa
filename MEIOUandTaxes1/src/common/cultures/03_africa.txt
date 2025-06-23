@@ -1317,6 +1317,24 @@ senegambian = {
 			"Ndoye Demba"
 		}
 	}
+	landuma = {
+	
+	}
+	baga = {
+	
+	}
+	bullom = {
+	
+	}
+	limba = {
+	
+	}
+	kissi = {
+	
+	}
+	gola = {
+	
+	}
 	soudanese_colonial = {
 		
 		dynasty_names = {
@@ -2017,9 +2035,6 @@ sahelian_group = {
 			Zabaydah Zahrah Zakiyyah Zaytun
 		}
 	}
-	birom = {
-		
-	}
 }
 
 saharan_group = {
@@ -2370,6 +2385,9 @@ plateau_group = {
 			Yahimba
 		}
 	}
+	birom = {
+		
+	}
 	plateau_colonial = {
 		
 		dynasty_names = {
@@ -2525,6 +2543,61 @@ akan_group = {
 	graphical_culture = africangfx
 	akaa = {
 		primary = ASH
+		
+		dynasty_names = {
+			Aduana Agona Asakyiri Asenie Asona
+			Bretuo
+			Ekuona
+			Oyoko
+		}
+		male_names = {
+			Ado Akotia Antwi
+			Gyako
+			Maniampon Manukure Mumunumfi
+			Oduro
+			Twum
+			"Abuako Dako"
+			"Afera Kuma"
+			"Agyen Kokobo"
+			"Akwano Panyini"
+			"Ameyaw Kyereme"
+			"Amoako Kuma" "Amoako Panyin"
+			"Ansa Saseraku"
+			"Atakora Kwame"
+			"Bafuo Twi"
+			"Boa Amponsem"
+			"Boado Berempon"
+			"Dako Booman"
+			"Gyan Badu"
+			"Kobia Amamfi"
+			"Kusi Obodom"
+			"Kwadwo Tibu"
+			"Kwaku Dua"
+			"Kwakye Fram"
+			"Kyei Akobeng"
+			"Kyereme Kofi"
+			"Ntim Gyakari"
+			"Ofusu Kwabi"
+			"Opoku Ware"
+			"Osei Akoto" "Osei Bonsu" "Osei Fofie" "Osei Kwadwo" "Osei Kwame Panyin" "Osei Tutu"
+			"Oti Akenten"
+			"Otumfo Asare"
+			"Owusu Amprofi" "Owusu Bori"
+			"Safo Kantanka"
+			"Twifo Heman"
+			"Werempe Ampem"
+		}
+		female_names = {
+			Abenaa Adwoa Afua Akosua Akua Ama
+			Yaa
+			"Afia Dokuaa"
+			"Ama Serwah"
+			"Amoako Yiadom"
+			"Juaben Serwah"
+		}
+	}
+	gonja = {
+		primary = GON
 		
 		dynasty_names = {
 			Aduana Agona Asakyiri Asenie Asona
@@ -3030,6 +3103,9 @@ mande_group = {
 			Wenkouni
 			Yennenga
 		}
+	}
+	kpelle = {
+	
 	}
 	mande_colonial = {
 		
@@ -5133,46 +5209,78 @@ abyssinian_group = {
 	
 kwa_group = {
 	graphical_culture = africangfx
-	jukun = {
-		
-		dynasty_names = {
-			Berom Bolewa Butawa
-			Chamba
-			Fa'awa Fali
-			Gerawa
-			Jarawa Jukun
-			Kanuri Kilba Kirfawa Koma Kuteb
-			Longuda
-			Mambila Mbadawa Mumuye
-			Sayawa
-			Tarok Tera Tiv
-			Waja Warjawa
-			Zulawa
-			"Turawa Bolewa"
-		}
-		male_names = {
-			Agwabi Agyibi
-			Daju Dawi
-			Karekare Katakpa Kuvyon
-			Zike
-			"Adi Matswen"
-			"Agbu Kenjo"
-			"Agudu Manu"
-			"Angyu Zikenyu"
-			"Ashu Manu"
-			"Nani To"
-		}
-		female_names = {
-			Iverem
-			Limber
-			Mhonum Morihinze
-			Shiminege
-			Wandoo
-			Yahimba
-		}
-	}
 	yorumba = {
 		primary = YRB
+		
+		dynasty_names = {
+			Abinu Akoko Awort
+			Egba Egbado Ekiti
+			Ibarapa Ibolo Idaisa Ife Ifonyin Igbede Igbira Igbomina Ijebu Ijesa Ijumu Ikale Ikiri Isa
+			Ketu
+			Manigiri
+			Ohori Ondo Owo Oyo
+			Sabe
+			Yagba
+		}
+		male_names = {
+			Abejoye Abiodun Abipa Adagba Adebo Adegbalu Adejinle Adelu Ademilu Adisa Aganju Agbedegbede Agboluaje Ajagbo Ajaka Ajana Ajibogun Ajimuda Akesan Akinmoyero Amodo Amuniwaiye Apasa Aponlose Aribiwoso Ariyasunle Atakunmosa Awonbioju Aworokolokin Ayetise Ayibi
+			Biladu Bilagbayo Bilajagodo Bilajara Bilaro Bilasa Bilatutu Bilayiarere
+			Degbinsokun
+			Eguguojo Ekun
+			Falokun Fesojoye Fusengbuwa
+			Ganju Gbanlare Gbegbaaje Gbelegbuwa Gberu Gbodogi Gboonijio Giesi Gunwaja Guru
+			Jadiara Jayin Jewo
+			Kanran Kori
+			Labisi Lafogido Lagunja Lajamisan Lajodoogun Lapengbua Larunnka Lofin Loja Lugbade Lumobi
+			Majeogbe Majotu Makua Mase Mekun Mola Munigbuwa
+			Obalokun Obanta Obara Odarawu Oduduwa Odundun Ofinran Ofirin Ofokutu Ogbagba Ogboruu Ogun Ojelokunbirin Ojigi Ojigidiri Ojora Okanlajosin Okiti Olojo Olotuseso Olu Oluaso Oluewu Oluodo Omogbogbo Onigbogi Onisile Oranmiyan Oranyan Orompoto Oshin Osinkola Osinlade Osiyago Otutubiosun Owaluse Owari
+			Ruwamuda
+			Sapokun Setejoye Shango Shodeke Shomoye
+			Tewogboye Tewogbuwa
+			Wunmonije
+			Yeyegunrogbo Yeyelagagba Yeyeori Yeyewaji
+			"Adegunle Adewela"
+			"Afidipotemole Ademuyewo"
+			"Ajila Oorun"
+			"Anikilaya Figbajoye Agboogunsa"
+			"Atiba Atobatele"
+			"Atunwase Adesinbo"
+			"Awole Arogangan"
+			"Elewu Ileke"
+			"Liyewe Arojofaye"
+			"Moko Idowa Ajuwakale"
+			"Moyege Olope"
+			"Obalufon Alayemore" "Obalufon ogbogbodirin"
+			"Obarabara Olokun Eshin"
+			"Odidimode Rogbeesin"
+			"Ojigi Amoyegeso"
+			"Olumisodan Elewu Ileke"
+			"Ore Jeje"
+			"Orodudu Joye"
+			"Osangangan Obamakin"
+			"Owaka Okile"
+			"Sagbua Okukenun"
+			"Sapennuwa Ruba Koye"
+		}
+		female_names = {
+			Abeni Abimbola Abiodun Ade Adebola Adebowale Adedayo Adetokunbo Alaba Ayo Ayodele Ayomide Ayotunde
+			Bolanle Bosede
+			Dada Dayo
+			Ekundayo Eniola Enitan
+			Folami
+			Gbemisola
+			Idowu Ife Ige
+			Kayin
+			Luwoo
+			Mojisola Monifa
+			Olamide Olayinka Olubunmi Olufunke Olufunmilayo Olufunmilola Oluwafunmilayo Oluwakanyinsola Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Opeyemi Ore
+			Simisola
+			Temitope Titilayo
+			Yejide Yewande
+		}
+	}
+	itsekiri = {
+		primary = ITS
 		
 		dynasty_names = {
 			Abinu Akoko Awort
@@ -5309,86 +5417,6 @@ kwa_group = {
 			Udo Uzoma
 		}
 	}
-	ijaw = {
-		primary = IJA
-		
-		dynasty_names = {
-			Akassa Andoni Apoi Arogbo Atissa
-			Bassan Bille Bumo Buseni
-			Egbema Ekpetiama Engenni Epie
-			Furupagha
-			Gbaran Gbaranmatu
-			Ibani Iduwini Isaba
-			Kabo Kalabari Kolokuma Kou Kula Kumbo
-			Mein
-			Nembe Nkoro
-			Obotebe Odimodi Ogbe Ogbia Ogboin Ogulagha Okordia Okrika Olodiama Operemor Opobo Opokuma Oruma Oyakiri
-			Seimbiri
-			Tarakiri Tungbo Tuomo
-			Ukomu
-			Zarama
-		}
-		male_names = {
-			Abejioye Akengboye Akengbuwa Akenjioye Aladede Amain Amakiri Apia Asimini Atogbuwa Awusa
-			Bokoye
-			Daba Dede Duguruyai
-			Edimini Ejo Ekutia Erejuwa Eri
-			Fubara
-			Gbolowei
-			Igonibo
-			Kalagba Kamalu
-			Mein Mianene Mingi
-			Nembe Ngbesa
-			Obia Ogbo Ogbodo Ogbolo Ogio Okiriyai Omagboye Omuye Owagi
-			Perekule Peresuo
-			Tamuno
-			Warri
-			"Boka Ado"
-			"Kala Basuo" "Kala Ekule" "Kala Igula"
-			"Nemiduko Ado"
-			"Opu Basuo" "Opu Dappa" "Opu Igula"
-		}
-		female_names = {
-			Alaere Alayingi
-			Bekeara Bekes Bibinidei Biboye Bobolayefa Bobomiegha Bodisere Buboupakumo
-			Disemi
-			Ebeleakpo Ebiere Ebikake Ebrakumo Edubamo Elayokon Emeleakpo Eniye Erebi
-			Funere
-			Itohan
-			Kambasa Kariara
-			Luckere
-			Oyabrade Oyinbodei
-			Pereasuodei Pinaere
-			Seiakumokumo Suoton
-			Tariere Tokoni
-			Yinlayefa Yoroakpo
-			"Iye Idolorusan"
-			"Pere Ere"
-		}
-	}
-	efik = {
-		primary = CLB
-		
-		dynasty_names = {
-			Abayen Adiabo
-			Enwan
-			Iboku
-			Mbiabo
-			Obuton
-			Usukakpa
-		}
-		male_names = {
-			Asibong
-			Edem Effiom Effiong Eyamba
-			Minika
-			Okoho
-		}
-		female_names = {
-			Ekaette
-			Kokoeka
-			Mmayen
-		}
-	}
 	igala = {
 		primary = IGB
 		
@@ -5514,6 +5542,7 @@ gbe_group = {
 		}
 	}
 	ewe_c = {
+		primary = EWE
 		
 		dynasty_names = {
 			Anlo
@@ -5531,6 +5560,144 @@ gbe_group = {
 			Enyonam
 			Lumusi
 			Mawunyo
+		}
+	}
+	aja_c = {
+		
+		dynasty_names = {
+			Agasuvi
+			Hwegbonu
+			"Alada Tadonu"
+		}
+		male_names = {
+			Adandozan Adjakpa Agagnon Agbami Agbande Agbangba Agonglo Akaba Akoli Akonde Amamu Ayohwan Aysan Azoton
+			Dakodonou Dassu Deka
+			Ganhwa Gelele Gezo
+			Houegbadja Hueze Hufon Hunungungu
+			Kopon Kpengla
+			Mijo Mindji
+			Tegbessou Tezifon
+			Yessu
+			"Agadja Trudo"
+			"Aholuho Adja"
+			"De Adjara" "De Nufion"
+			"Do Aklin"
+			"Kin Ha"
+			"Lamadje Pokonu"
+		}
+		female_names = {
+			Abla Adjua Afi Akosiwa Aku Ame Ayawa
+		}
+	}
+}
+
+cross_river_group = {
+	graphical_culture = africangfx
+	efik = {
+		primary = CLB
+		
+		dynasty_names = {
+			Abayen Adiabo
+			Enwan
+			Iboku
+			Mbiabo
+			Obuton
+			Usukakpa
+		}
+		male_names = {
+			Asibong
+			Edem Effiom Effiong Eyamba
+			Minika
+			Okoho
+		}
+		female_names = {
+			Ekaette
+			Kokoeka
+			Mmayen
+		}
+	}
+	ibibio = {
+		primary = IBI
+		
+		dynasty_names = {
+			Abayen Adiabo
+			Enwan
+			Iboku
+			Mbiabo
+			Obuton
+			Usukakpa
+		}
+		male_names = {
+			Asibong
+			Edem Effiom Effiong Eyamba
+			Minika
+			Okoho
+		}
+		female_names = {
+			Ekaette
+			Kokoeka
+			Mmayen
+		}
+	}
+}
+	
+ijaw_group = {
+	graphical_culture = africangfx	
+	ijaw = {
+		primary = IJA
+		
+		dynasty_names = {
+			Akassa Andoni Apoi Arogbo Atissa
+			Bassan Bille Bumo Buseni
+			Egbema Ekpetiama Engenni Epie
+			Furupagha
+			Gbaran Gbaranmatu
+			Ibani Iduwini Isaba
+			Kabo Kalabari Kolokuma Kou Kula Kumbo
+			Mein
+			Nembe Nkoro
+			Obotebe Odimodi Ogbe Ogbia Ogboin Ogulagha Okordia Okrika Olodiama Operemor Opobo Opokuma Oruma Oyakiri
+			Seimbiri
+			Tarakiri Tungbo Tuomo
+			Ukomu
+			Zarama
+		}
+		male_names = {
+			Abejioye Akengboye Akengbuwa Akenjioye Aladede Amain Amakiri Apia Asimini Atogbuwa Awusa
+			Bokoye
+			Daba Dede Duguruyai
+			Edimini Ejo Ekutia Erejuwa Eri
+			Fubara
+			Gbolowei
+			Igonibo
+			Kalagba Kamalu
+			Mein Mianene Mingi
+			Nembe Ngbesa
+			Obia Ogbo Ogbodo Ogbolo Ogio Okiriyai Omagboye Omuye Owagi
+			Perekule Peresuo
+			Tamuno
+			Warri
+			"Boka Ado"
+			"Kala Basuo" "Kala Ekule" "Kala Igula"
+			"Nemiduko Ado"
+			"Opu Basuo" "Opu Dappa" "Opu Igula"
+		}
+		female_names = {
+			Alaere Alayingi
+			Bekeara Bekes Bibinidei Biboye Bobolayefa Bobomiegha Bodisere Buboupakumo
+			Disemi
+			Ebeleakpo Ebiere Ebikake Ebrakumo Edubamo Elayokon Emeleakpo Eniye Erebi
+			Funere
+			Itohan
+			Kambasa Kariara
+			Luckere
+			Oyabrade Oyinbodei
+			Pereasuodei Pinaere
+			Seiakumokumo Suoton
+			Tariere Tokoni
+			Yinlayefa Yoroakpo
+			"Iye Idolorusan"
+			"Pere Ere"
 		}
 	}
 }

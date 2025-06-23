@@ -36,7 +36,7 @@ discovered_by = sub_saharan
 	#set_key = { lhs = settlement_score_progress_preset value = 51 }
 }
 1356.1.1 = {
-	add_core = JNN
+	add_core = MSN
 }
 #1528.1.1 = {
 #	base_tax = 8

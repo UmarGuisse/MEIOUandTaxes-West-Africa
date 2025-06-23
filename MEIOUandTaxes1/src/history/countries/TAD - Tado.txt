@@ -10,7 +10,7 @@ government_rank = 1
 mercantilism = 0.0
 technology_group = sub_saharan
 religion = nana_buluku
-primary_culture = fon_c
+primary_culture = aja_c
 capital = 2890 # Tado
 
 1000.1.1 = {

@@ -7,15 +7,13 @@ native_hostileness = 9
 capital = "Mekrou"
 trade_goods = millet
 culture = gurma
-religion = wedraogo
+religion = yaaba
 
 hre = no
 
 base_tax = 2
 base_production = 0
 base_manpower = 0
-
-is_city = yes
 
 discovered_by = soudantech
 discovered_by = sub_saharan

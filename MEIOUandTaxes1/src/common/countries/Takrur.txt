@@ -83,16 +83,18 @@ monarch_names = {
 }
 
 leader_names = {
-	Oueddai
-	Ahmat
-	Ardoum
-	Terap
-	Kabadi
-	Yorassem
-	Nahor
-	Deby
-	Djammous
-	Malloum
+	Agne Atchy Aw
+	Baal Bah Bane Barro Boh
+	Daff Daou Deh Dème Dia Diack Diago Diaw Dioum Djim
+	Guissé
+	Hanne
+	Kah Kane Kébé
+	Lam Ly
+	M'baye Maal Makadii
+	Ndiaye Niane Niang
+	Sall Sam Sarr Seck Simaga Sow Sy
+	Tall Tambadou Thiam Touré
+	Wagne Wane
 }
 
 ship_names = {

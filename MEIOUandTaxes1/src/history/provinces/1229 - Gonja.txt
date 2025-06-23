@@ -6,8 +6,8 @@ add_core = GON
 
 capital = "Yagbum"
 trade_goods = millet
-culture = dagomba
-religion = wedraogo
+culture = gonja
+religion = akom
 
 hre = no
 

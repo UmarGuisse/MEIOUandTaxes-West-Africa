@@ -2003,7 +2003,7 @@ smm_recalc_mapmode_2 = { ## %%% 512-choice ## resets mapmode according to smm_ty
 										smm_mapmode_type_religion_total = { rel=72 }
 									}
 									else = {
-										#310 - Nummo
+										#310 - Bamanaya
 										smm_mapmode_type_religion_total = { rel=71 }
 
 									}

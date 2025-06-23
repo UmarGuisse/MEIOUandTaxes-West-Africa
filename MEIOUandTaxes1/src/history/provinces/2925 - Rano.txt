@@ -7,7 +7,7 @@ add_core = KNO
 capital = "Rano"
 trade_goods = slaves
 culture = haussa
-religion = sunni
+religion = maguzanci
 
 hre = no
 

@@ -7,7 +7,7 @@ add_core = KNG
 capital = "Dabakala"
 trade_goods = millet
 culture = senufo
-religion = nummo
+religion = bamanaya
 
 hre = no
 

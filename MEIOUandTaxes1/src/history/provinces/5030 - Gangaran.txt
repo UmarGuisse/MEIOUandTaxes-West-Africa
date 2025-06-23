@@ -7,7 +7,7 @@ add_core = MAL
 capital = "Diakaba"
 trade_goods = millet
 culture = maninka
-religion = nummo
+religion = bamanaya
 
 hre = no
 

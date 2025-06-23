@@ -6,7 +6,7 @@ add_core = LMB
 
 capital = "Mamou"
 trade_goods = millet
-culture = temne
+culture = limba
 religion = roogan
 
 hre = no

@@ -7,9 +7,9 @@ add_government_reform = Pol_Centralisation2
 government_rank = 1
 mercantilism = 0.0
 primary_culture = gurunsi
-religion = wedraogo
+religion = yaaba
 technology_group = sub_saharan
-capital = 5085 # Gurunsi
+capital = 5008 # Sisala
 
 1000.1.1 = {
 	add_country_modifier = { name = title_1 duration = -1 }

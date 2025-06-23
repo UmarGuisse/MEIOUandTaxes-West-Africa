@@ -1022,10 +1022,16 @@ west_african_ideas = {
 			culture_group = volta_group
 			culture_group = plateau_group
 			culture_group = kwa_group
+			culture_group = ijaw_group
+			culture_group = kru_group
+			culture_group = senegambian
+			culture_group = gbe_group
+			culture_group = cross_river_group
 		}
 		NOT = {
 			primary_culture = yorumba
 			primary_culture = songhai
+			primary_culture = wolof
 		}
 	}
 	

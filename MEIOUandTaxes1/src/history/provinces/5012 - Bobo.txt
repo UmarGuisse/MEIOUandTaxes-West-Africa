@@ -4,10 +4,10 @@ owner = BWB
 controller = BWB
 add_core = BWB
 
-capital = "Bobo"
+capital = "Bobo-Julaso"
 trade_goods = millet
 culture = bwa
-religion = nummo
+religion = bamanaya
 
 hre = no
 

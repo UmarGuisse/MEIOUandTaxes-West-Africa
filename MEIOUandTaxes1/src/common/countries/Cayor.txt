@@ -130,16 +130,19 @@ monarch_names = {
 }
 
 leader_names = {
-	Oueddai
-	Ahmat
-	Ardoum
-	Terap
-	Kabadi
-	Yorassem
-	Nahor
-	Deby
-	Djammous
-	Malloum
+	Beye Boye
+	Diack Diagne Dial Diaw Dieng Diop Diène Dièye
+	Fall
+	Gaye Guèye
+	Kassé
+	Leye Loum Lô
+	Mbacké Mbaye MBengue Mbodj Mboup Mbow
+	Ndao NDiaye Ndiongue Ndiouck Ndoye Niang Niasse
+	Pouye Péne
+	Samb Seck Sourang
+	Thiam Thiaw
+	Wade
+	Yade
 }
 
 ship_names = {

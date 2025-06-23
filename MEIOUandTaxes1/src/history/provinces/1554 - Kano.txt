@@ -7,7 +7,7 @@ add_core = KNO
 capital = "Kano"
 trade_goods = cotton
 culture = haussa
-religion = sunni
+religion = maguzanci
 
 hre = no
 

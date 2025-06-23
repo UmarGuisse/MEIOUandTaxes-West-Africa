@@ -29,6 +29,9 @@ discovered_by = sub_saharan
 	#set_key = { lhs = tribals_ratio value = 48 }
 	set_province_flag = mined_goods
 	set_province_flag = tin
+	# Features
+	set_province_flag = TN_Harbour_Minor
+	set_province_flag = TN_Natural_Minor
 }
 #1484.1.1 = {
 #	discovered_by = POR

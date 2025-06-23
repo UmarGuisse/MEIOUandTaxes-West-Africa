@@ -1,6 +1,6 @@
 # 1123 - Kru
 
-capital = "Mesurado"
+capital = "Kru"
 trade_goods = pepper
 culture = dyola
 religion = roogan

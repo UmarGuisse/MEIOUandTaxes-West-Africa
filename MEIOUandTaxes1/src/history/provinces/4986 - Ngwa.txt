@@ -1,10 +1,10 @@
 # 4986 - Ngwa
 
-owner = NRI
-controller = NRI
-add_core = NRI
+owner = NGW
+controller = NGW
+add_core = NGW
 
-capital = "Ngwa"
+capital = "Aba Ngwa"
 trade_goods = palm
 culture = igbo
 religion = odinala

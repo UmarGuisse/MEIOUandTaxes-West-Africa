@@ -7,7 +7,7 @@ add_core = DRA
 capital = "Daura"
 trade_goods = cotton
 culture = haussa
-religion = sunni
+religion = maguzanci
 
 hre = no
 

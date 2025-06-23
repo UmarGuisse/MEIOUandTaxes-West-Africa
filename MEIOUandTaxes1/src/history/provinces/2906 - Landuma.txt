@@ -6,7 +6,7 @@ add_core = MAL
 
 capital = "Landuma"
 trade_goods = livestock
-culture = temne
+culture = landuma
 religion = roogan
 
 hre = no

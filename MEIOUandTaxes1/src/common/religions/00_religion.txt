@@ -85,10 +85,10 @@
 #	San_Pagan						# 65	#South Africa beliefs
 #	Lotuko_Pagan					# 66	#Sudan beliefs
 #	Fomba_Gasy						# 67	#Malagasy Mythology
-#	Wedraogo						# 68	#Wedraogo / Ijo religion (Ijo people, Nigeria)
+#	Yaaba							# 68	#Yaaba Sore / Mossi religion (Mossi people, Burkina)
 #	Isese							# 69	#Isese / Yoruba religion (Nigeria, Benin, Togo) #Ifa religion (Nigeria)
 #	Egbesu							# 70	#Egbesu / Ijaw religion (Ijaw people, Nigeria)
-#	Nummo							# 71	#Nummo / Dogon religion (Mali)
+#	Bamanaya						# 71	#Bamanaya / Manden religion (Mali)
 #South_Asia_Pagan
 #	Adi_Dharam						# 72	#India folk religion
 #	Australian_Pagan				# 73	#Jukurrpan

@@ -7,8 +7,8 @@ add_government_reform = Pol_Nobility1
 add_government_reform = Pol_Centralisation2
 government_rank = 1
 mercantilism = 0.0
-primary_culture = dagomba
-religion = wedraogo
+primary_culture = gonja
+religion = akom
 technology_group = sub_saharan
 capital = 1229 # Yagbum
 

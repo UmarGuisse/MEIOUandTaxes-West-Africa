@@ -54,7 +54,7 @@ SWH = "countries/Swahilistan.txt"
 VMK = "countries/VumbaKuu.txt"
 WRS	= "countries/Warsangali.txt"
 ZIM	= "countries/Mutapa.txt"							#/*
-
+ZZB	= "countries/Zanzibar.txt"						#/*
 #
 # West Africa
 #
@@ -133,6 +133,12 @@ ZZZ	= "countries/Zazzau.txt"							#/*
 SBE	= "countries/Sabe.txt"
 EWE = "countries/Ewe.txt"
 TAD = "countries/Tado.txt"
+IBI = "countries/Ibibio.txt"
+ITS = "countries/Itsekiri.txt"
+AGB = "countries/Agbor.txt"
+NGW = "countries/Ngwa.txt"
+ARO = "countries/Arochukwu.txt"
+
 #
 # Kongo, Great Lakes & Central Africa
 #
@@ -155,7 +161,7 @@ SED	= "countries/Sedanda.txt"
 TMB	= "countries/Tumbuka.txt"
 TYO	= "countries/Tyo.txt"
 YAK	= "countries/Yaka.txt"
-ZZB	= "countries/Zanzibar.txt"						#/*
+KKN = "countries/Kakongo.txt"
 #
 # Madagascar
 #
@@ -164,8 +170,8 @@ ATS	= "countries/Antaisaka.txt"						#/*
 BAA	= "countries/Bara.txt"							#/*
 BET	= "countries/Betsileo.txt"						#/*
 BNA	= "countries/Boina.txt"							#/*
-MER	= "countries/Merina.txt"							#/*
+MER	= "countries/Merina.txt"						#/*
 MHF	= "countries/Mahafaly.txt"						#/*
-MNB	= "countries/Menabe.txt"							#/*
+MNB	= "countries/Menabe.txt"						#/*
 SIH	= "countries/Sihanaka.txt"						#/*
 TAM	= "countries/Tamatave.txt"						#/*

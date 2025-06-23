@@ -10192,7 +10192,7 @@ POP_GetTlrnc = {
 								POP_GetTlrncHelper = { religion = adi_dharam return = $return$ }
 							}
 							else = {
-								POP_GetTlrncHelper = { religion = nummo return = $return$ }
+								POP_GetTlrncHelper = { religion = bamanaya return = $return$ }
 							}
 						}
 						else = {
@@ -10204,7 +10204,7 @@ POP_GetTlrnc = {
 							POP_GetTlrncHelper = { religion = isese return = $return$ }
 						}
 						else = {
-							POP_GetTlrncHelper = { religion = wedraogo return = $return$ }
+							POP_GetTlrncHelper = { religion = yaaba return = $return$ }
 						}
 					}
 				}

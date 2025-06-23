@@ -472,10 +472,8 @@ BAN_ideas = {
 	bonus = {
 	}
 	trigger = {
-		always = no
-		NOT = { tag = KON }
-		culture_group = kongo_group
-		NOT = { tag = KIT }
+		culture_group = upemba_group
+        NOT = { is_colonial_nation = yes }
 	}
 	
 	free = yes	# Will be added at load.

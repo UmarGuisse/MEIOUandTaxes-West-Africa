@@ -7,7 +7,7 @@ add_core = MAL
 capital = "Dia"
 trade_goods = rice
 culture = bozo
-religion = sunni
+religion = bamanaya
 
 hre = no
 

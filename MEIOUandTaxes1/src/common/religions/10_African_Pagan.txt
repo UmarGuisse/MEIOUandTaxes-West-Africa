@@ -16,7 +16,7 @@
 #	Mossi							# 68	#Mossi religion for the Mossi and Dagomba people
 #	Isese							# 69	#Isese / Yoruba religion (Nigeria, Benin, Togo) #Ifa religion (Nigeria)
 #	Egbesu							# 70	#Egbesu / Ijaw religion (Ijaw people, Nigeria)
-#	Nummo							# 71	#Nummo / Dogon religion (Mali)
+#	Bamanaya						# 71	#Bamanaya / Manden religion (Mali)
 
 african_pagan = {
 	flags_with_emblem_percentage = 10
@@ -503,7 +503,7 @@ african_pagan = {
 		heretic = { Fundamentalist Reactionary Prophetic Charismatic Syncretic Tribal }
 	}
 
-	wedraogo = {
+	yaaba = {
 		color = { 131 102 197 }
 		icon = 32
 		province = {
@@ -531,7 +531,7 @@ african_pagan = {
 		}
 		can_have_secondary_religion = yes
 		on_convert = {
-			change_religion = wedraogo
+			change_religion = yaaba
 		}
 		uses_piety = yes
 		has_patriarchs = yes		# Uses patriarch authority
@@ -614,7 +614,7 @@ african_pagan = {
 		heretic = { Fundamentalist Reactionary Prophetic Charismatic Syncretic Tribal }
 	}
 
-	nummo = {
+	bamanaya = {
 		color = { 35 97 156 }
 		icon = 32
 		province = {
@@ -642,7 +642,7 @@ african_pagan = {
 		}
 		can_have_secondary_religion = yes
 		on_convert = {
-			change_religion = nummo
+			change_religion = bamanaya
 		}
 		uses_piety = yes
 		has_patriarchs = yes		# Uses patriarch authority

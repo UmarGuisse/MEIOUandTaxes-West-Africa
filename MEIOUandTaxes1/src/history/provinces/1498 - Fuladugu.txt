@@ -7,7 +7,7 @@ add_core = MAL
 capital = "Kita"
 trade_goods = cotton
 culture = maninka
-religion = nummo
+religion = bamanaya
 
 base_tax = 2
 base_production = 0

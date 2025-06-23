@@ -1,8 +1,8 @@
 # 1552 - Arochukwu
 
-owner = NRI
-controller = NRI
-add_core = NRI
+owner = ARO
+controller = ARO
+add_core = ARO
 
 capital = "Arochukwu"
 trade_goods = palm

@@ -7,7 +7,7 @@ add_core = MAL
 capital = "Maali"
 trade_goods = livestock
 culture = susu
-religion = roogan
+religion = bamanaya
 
 hre = no
 

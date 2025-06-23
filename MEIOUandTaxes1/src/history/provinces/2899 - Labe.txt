@@ -4,10 +4,10 @@ owner = MAL
 controller = MAL
 add_core = MAL
 
-capital = "Labй"
+capital = "Labe"
 trade_goods = livestock
 culture = susu
-religion = roogan
+religion = bamanaya
 
 hre = no
 

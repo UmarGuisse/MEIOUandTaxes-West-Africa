@@ -182,3 +182,37 @@ subject_type = "tributary_state"
 	start_date = 1356.1.10
 	end_date = 1450.1.1
 }
+
+# Kongo
+dependency = {
+subject_type = "decentralized_vassal"
+	first = KON
+	second = KKN
+	start_date = 1356.1.10
+	end_date = 1450.1.1
+}
+
+# Nri
+dependency = {
+	subject_type = "close_tributary_state"
+	first = NRI
+	second = AGB
+	start_date = 1356.1.1
+	end_date = 1529.1.1
+}
+
+dependency = {
+	subject_type = "close_tributary_state"
+	first = NRI
+	second = NGW
+	start_date = 1356.1.1
+	end_date = 1529.1.1
+}
+
+dependency = {
+	subject_type = "close_tributary_state"
+	first = NRI
+	second = ARO
+	start_date = 1356.1.1
+	end_date = 1529.1.1
+}

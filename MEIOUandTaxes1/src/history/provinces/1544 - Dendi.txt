@@ -7,7 +7,7 @@ add_core = SON
 capital = "Gaya"
 trade_goods = wool
 culture = songhai
-religion = sunni
+religion = yaaba
 
 hre = no
 

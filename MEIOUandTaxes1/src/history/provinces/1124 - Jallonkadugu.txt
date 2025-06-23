@@ -7,7 +7,7 @@ add_core = MAL
 capital = "Jallonkadugu"
 trade_goods = rice
 culture = maninka
-religion = nummo
+religion = bamanaya
 
 hre = no
 

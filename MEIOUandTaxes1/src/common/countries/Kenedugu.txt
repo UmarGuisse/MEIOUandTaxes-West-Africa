@@ -117,16 +117,16 @@ monarch_names = {
 }
 
 leader_names = {
-	Oueddai
-	Ahmat
-	Ardoum
-	Terap
-	Kabadi
-	Yorassem
-	Nahor
-	Deby
-	Djammous
-	Malloum
+	Banba Berete Bore
+	Dawu Denbele
+	Sanogo Sogoba
+	Togola
+	Watara
+	Faane
+	Goyta
+	Koyita Kulibali
+	Sisuma
+	Togola
 }
 
 ship_names = {

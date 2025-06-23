@@ -2,8 +2,8 @@
 
 capital = "Kara"
 trade_goods = millet
-culture = dagomba
-religion = wedraogo
+culture = gurunsi
+religion = yaaba
 
 hre = no
 

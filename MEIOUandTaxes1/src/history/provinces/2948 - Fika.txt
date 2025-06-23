@@ -7,7 +7,7 @@ add_core = KBO
 capital = "Daniski"
 trade_goods = cotton
 culture = kanouri
-religion = sunni
+religion = maguzanci
 
 hre = no
 

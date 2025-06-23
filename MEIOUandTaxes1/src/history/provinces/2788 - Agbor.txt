@@ -1,8 +1,8 @@
 # 2788 - Agbor
 
-owner = NRI
-controller = NRI
-add_core = NRI
+owner = AGB
+controller = AGB
+add_core = AGB
 
 capital = "Agbor"
 trade_goods = pepper
